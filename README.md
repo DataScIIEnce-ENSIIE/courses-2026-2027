@@ -15,4 +15,10 @@ Cours de l'association DataScIIEnce pour l'année 2026-2027. Vous trouverez dans
 - Tri et groupement
 - Ouverture sur la visualisation
 
+## TP2 : Visualisation des données - 21 octobre 2026
+- Introduction à matplotlib.pyplot, création et personnalisation de graphiques simples
+- Seaborn, scatterplots et graphiques de distribution avancés
+- Graphiques de comparaison et corrélations
+- Visualisation dynamique avec Plotly
+
 En construction
