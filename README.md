@@ -21,4 +21,10 @@ Cours de l'association DataScIIEnce pour l'année 2026-2027. Vous trouverez dans
 - Graphiques de comparaison et corrélations
 - Visualisation dynamique avec Plotly
 
+## TP3 : Extraction de données - 12 novembre 2026
+- Présentation du web scraping
+- Requests, BeautifulSoup et scraping statique
+- Playwright et scraping dynamique
+- Cadres éthique et légal du scraping
+
 En construction
