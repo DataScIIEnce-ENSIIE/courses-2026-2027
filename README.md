@@ -27,4 +27,11 @@ Cours de l'association DataScIIEnce pour l'année 2026-2027. Vous trouverez dans
 - Playwright et scraping dynamique
 - Cadres éthique et légal du scraping
 
+## TP4 : Introduction au Machine Learning (supervisé) - 19 novembre 2026
+- Présentation du Machine Learning
+- Découverte de scikit-learn (sklearn)
+- Preprocessing des données
+- Construction du modèle et entraînement
+- Evaluation des performances du modèle
+
 En construction
