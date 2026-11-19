@@ -1,0 +1,801 @@
+titre,genre,realisateur,pays,langue,studio,annee_sortie,duree_min,budget_musd,marketing_musd,nb_ecrans,note_critiques,nb_votes_spectateurs,nb_nominations,recettes_musd
+Film 0001,Action,Réalisateur_16,Japon,Anglais,Indiepics,1990,112.0,138.2,39.6,4470.0,40.0,131198.0,0.0,696.2
+Film 0002,Thriller,Réalisateur_15,USA,Anglais,Atlas Pictures,2000,108.0,95.5,32.3,5000.0,51.0,67373.0,0.0,340.6
+Film 0003,Animation,Réalisateur_18,Allemagne,Anglais,Indiepics,2008,118.0,31.7,23.3,3007.0,46.0,78582.0,0.0,307.1
+Film 0004,Science-Fiction,Réalisateur_11,USA,Anglais,Majorstudio,2022,112.0,94.7,25.4,5000.0,73.0,85553.0,1.0,346.7
+Film 0005,Science-Fiction,Réalisateur_17,USA,Anglais,Majorstudio,2015,86.0,24.8,20.6,1316.0,,1701820.0,1.0,334.2
+Film 0006,Thriller,Réalisateur_05,Allemagne,Hindi,Nordlight,2017,89.0,30.0,21.2,3020.0,,8587.0,5.0,212.4
+Film 0007,Action,Réalisateur_13,France,Japonais,Majorstudio,2009,113.0,8.2,2.0,1248.0,68.0,73095.0,1.0,92.6
+Film 0008,Animation,Réalisateur_38,France,Français,Nordlight,1993,131.0,36.5,25.0,1805.0,65.0,113022.0,0.0,273.6
+Film 0009,Comédie,Réalisateur_29,Royaume-Uni,Anglais,Indiepics,2003,72.0,26.1,16.8,2438.0,80.0,50261.0,4.0,86.9
+Film 0010,Action,Réalisateur_06,Canada,Anglais,Nordlight,2024,118.0,6.7,,924.0,69.0,345844.0,0.0,58.0
+Film 0011,Horreur,Réalisateur_12,USA,Français,Atlas Pictures,1991,133.0,,18.2,1864.0,63.0,296004.0,0.0,152.5
+Film 0012,Romance,Réalisateur_11,Corée du Sud,Anglais,Nordlight,2020,109.0,22.7,16.0,1196.0,84.0,124912.0,0.0,34.9
+Film 0013,Animation,Réalisateur_12,USA,Anglais,Sakura Films,2013,122.0,148.1,90.4,5000.0,64.0,81326.0,0.0,802.1
+Film 0014,Thriller,Réalisateur_28,USA,Anglais,Majorstudio,1999,99.0,60.0,25.5,2099.0,57.0,92347.0,0.0,204.3
+Film 0015,Animation,Réalisateur_36,France,Anglais,Majorstudio,2017,110.0,,17.1,1368.0,49.0,86181.0,2.0,234.2
+Film 0016,Thriller,Réalisateur_29,Royaume-Uni,Japonais,Lumière,2019,,31.5,27.4,1504.0,,110522.0,0.0,68.4
+Film 0017,Horreur,Réalisateur_20,USA,Anglais,Sakura Films,1991,70.0,25.6,15.6,3053.0,81.0,103200.0,4.0,208.5
+Film 0018,Comédie,Réalisateur_07,France,Anglais,Majorstudio,1993,129.0,20.0,13.3,,61.0,148345.0,2.0,66.9
+Film 0019,Thriller,Réalisateur_06,Japon,Hindi,Sakura Films,2013,94.0,8.3,,913.0,82.0,321736.0,2.0,58.3
+Film 0020,Science-Fiction,Réalisateur_33,Royaume-Uni,Allemand,Majorstudio,2024,104.0,21.1,15.4,,32.0,18495.0,1.0,90.6
+Film 0021,Horreur,Réalisateur_28,Corée du Sud,Anglais,Majorstudio,1990,87.0,11.6,,1825.0,61.0,31056.0,0.0,35.3
+Film 0022,Drame,Réalisateur_21,Inde,Anglais,Nordlight,2013,87.0,7.0,2.2,,61.0,13442.0,,34.8
+Film 0023,Comédie,Réalisateur_24,France,Coréen,Sakura Films,1994,109.0,40.9,14.0,3946.0,51.0,281990.0,0.0,105.7
+Film 0024,Romance,Réalisateur_34,France,Anglais,Sakura Films,2012,,36.3,21.0,2071.0,98.0,197290.0,4.0,172.5
+Film 0025,Thriller,Réalisateur_33,France,Anglais,Atlas Pictures,2011,119.0,4.1,2.2,430.0,61.0,200924.0,0.0,25.3
+Film 0026,Animation,Réalisateur_04,Royaume-Uni,Anglais,Indiepics,1993,120.0,,13.0,2008.0,56.0,18824.0,2.0,96.4
+Film 0027,Science-Fiction,Réalisateur_16,USA,Anglais,Indiepics,2013,,66.4,15.6,3145.0,62.0,941535.0,0.0,312.6
+Film 0028,Thriller,Réalisateur_02,USA,Allemand,Sakura Films,2021,116.0,70.8,34.2,5000.0,32.0,38985.0,1.0,291.6
+Film 0029,Horreur,Réalisateur_16,USA,Coréen,Lumière,2020,140.0,,41.6,5000.0,51.0,,0.0,243.0
+Film 0030,Science-Fiction,Réalisateur_26,France,Allemand,Atlas Pictures,1991,93.0,25.5,15.5,2037.0,77.0,349507.0,6.0,210.1
+Film 0031,Science-Fiction,Réalisateur_09,Canada,Japonais,Atlas Pictures,1998,111.0,10.5,,1809.0,53.0,31107.0,,124.6
+Film 0032,Comédie,Réalisateur_07,Royaume-Uni,Français,Majorstudio,1998,132.0,8.3,5.8,1125.0,50.0,51247.0,1.0,66.5
+Film 0033,Action,Réalisateur_20,France,Coréen,Lumière,2005,135.0,34.6,22.5,1939.0,82.0,161561.0,5.0,206.6
+Film 0034,Horreur,Réalisateur_21,Royaume-Uni,Japonais,Lumière,1995,86.0,35.8,27.0,2539.0,82.0,,6.0,183.9
+Film 0035,Romance,Réalisateur_29,Japon,Anglais,Sakura Films,2019,106.0,88.9,56.7,2381.0,,170020.0,0.0,231.8
+Film 0036,Action,Réalisateur_01,France,Anglais,Nordlight,2017,136.0,73.7,42.5,5000.0,55.0,712420.0,3.0,441.0
+Film 0037,Thriller,Réalisateur_10,France,Français,Sakura Films,2018,121.0,21.5,13.4,1137.0,58.0,453055.0,0.0,49.5
+Film 0038,Thriller,Réalisateur_32,Corée du Sud,Anglais,Sakura Films,1996,116.0,7.1,1.9,,50.0,153524.0,1.0,24.3
+Film 0039,Drame,Réalisateur_28,USA,Anglais,Lumière,1990,108.0,17.8,7.0,1798.0,47.0,29217.0,0.0,35.3
+Film 0040,Animation,Réalisateur_36,Royaume-Uni,Anglais,Majorstudio,2021,105.0,30.5,17.4,1266.0,46.0,338027.0,0.0,146.8
+Film 0041,Comédie,Réalisateur_33,Royaume-Uni,Français,Sakura Films,2000,,,,1049.0,53.0,16845.0,0.0,55.8
+Film 0042,Thriller,Réalisateur_34,Corée du Sud,Anglais,Atlas Pictures,2012,107.0,13.8,9.3,,46.0,647082.0,0.0,110.2
+Film 0043,Animation,Réalisateur_21,Canada,Anglais,Nordlight,2021,111.0,31.6,8.3,1362.0,39.0,111689.0,0.0,77.6
+Film 0044,Drame,Réalisateur_39,Inde,Anglais,Lumière,1991,113.0,14.8,9.1,1476.0,65.0,4720.0,0.0,17.6
+Film 0045,Action,Réalisateur_17,Royaume-Uni,Anglais,Majorstudio,1990,100.0,13.1,4.7,1178.0,66.0,76101.0,0.0,54.8
+Film 0046,Romance,Réalisateur_37,USA,Allemand,Majorstudio,1990,122.0,33.5,23.9,1796.0,,298588.0,5.0,126.3
+Film 0047,Science-Fiction,Réalisateur_16,Royaume-Uni,Anglais,Atlas Pictures,1995,164.0,16.4,,1107.0,52.0,75764.0,0.0,50.1
+Film 0048,Romance,Réalisateur_18,Inde,Anglais,Majorstudio,1991,80.0,31.3,19.3,2992.0,66.0,270067.0,0.0,85.8
+Film 0049,Animation,Réalisateur_28,Canada,Anglais,Nordlight,2018,118.0,32.2,19.8,3497.0,67.0,41647.0,1.0,210.5
+Film 0050,Thriller,Réalisateur_16,Inde,Hindi,Indiepics,2011,98.0,7.9,3.5,664.0,58.0,22243.0,1.0,30.4
+Film 0051,Thriller,Réalisateur_06,USA,Français,Atlas Pictures,2024,122.0,15.2,7.8,2241.0,,111444.0,0.0,94.7
+Film 0052,Comédie,Réalisateur_36,Corée du Sud,Anglais,Majorstudio,2018,113.0,103.3,83.1,5000.0,74.0,127133.0,0.0,299.5
+Film 0053,Drame,Réalisateur_19,Allemagne,Anglais,Nordlight,2023,126.0,7.7,5.4,1166.0,67.0,76035.0,0.0,55.4
+Film 0054,Science-Fiction,Réalisateur_38,Japon,Japonais,Lumière,1998,133.0,3.0,1.7,702.0,58.0,464962.0,1.0,70.6
+Film 0055,Science-Fiction,Réalisateur_16,Japon,Allemand,Nordlight,2000,115.0,3.8,1.7,805.0,57.0,38079.0,1.0,40.0
+Film 0056,Action,Réalisateur_39,Royaume-Uni,Anglais,Sakura Films,2019,,25.3,,2751.0,41.0,,2.0,159.8
+Film 0057,Horreur,Réalisateur_25,Japon,Anglais,Lumière,1998,70.0,25.3,7.6,,50.0,,1.0,97.2
+Film 0058,Comédie,Réalisateur_31,USA,Anglais,Sakura Films,1992,141.0,,,1970.0,53.0,15701.0,1.0,97.1
+Film 0059,Animation,Réalisateur_31,USA,Anglais,Atlas Pictures,2013,119.0,82.6,38.1,3493.0,45.0,,1.0,342.8
+Film 0060,Animation,Réalisateur_09,Inde,Japonais,Lumière,2018,131.0,1.7,,250.0,69.0,119163.0,0.0,46.7
+Film 0061,Romance,Réalisateur_33,Canada,Allemand,Sakura Films,2023,90.0,36.4,20.2,3020.0,,1383053.0,3.0,148.4
+Film 0062,Animation,Réalisateur_38,Inde,Allemand,Atlas Pictures,2022,97.0,116.9,42.6,2786.0,48.0,193866.0,1.0,620.5
+Film 0063,Drame,Réalisateur_27,USA,Coréen,Sakura Films,1994,,7.9,2.2,804.0,,14439.0,,43.9
+Film 0064,Romance,Réalisateur_38,USA,Anglais,Atlas Pictures,2017,112.0,16.8,7.3,969.0,46.0,2268.0,1.0,55.7
+Film 0065,Science-Fiction,Réalisateur_34,USA,Allemand,Sakura Films,2019,117.0,11.6,8.9,902.0,57.0,254568.0,0.0,81.1
+Film 0066,Drame,Réalisateur_27,Inde,Anglais,Nordlight,2014,132.0,10.0,4.7,1360.0,52.0,89711.0,0.0,47.9
+Film 0067,Romance,Réalisateur_20,Japon,Anglais,Sakura Films,2018,80.0,,13.1,,71.0,469836.0,0.0,69.2
+Film 0068,Drame,Réalisateur_35,Canada,Japonais,Nordlight,2019,130.0,102.3,,4439.0,52.0,34994.0,1.0,352.7
+Film 0069,Action,Réalisateur_08,USA,Anglais,Nordlight,2005,112.0,154.1,42.8,3637.0,,190856.0,4.0,613.2
+Film 0070,Science-Fiction,Réalisateur_23,Royaume-Uni,Coréen,Indiepics,1991,108.0,17.5,11.0,1560.0,58.0,294304.0,1.0,114.1
+Film 0071,Thriller,Réalisateur_33,Inde,Allemand,Nordlight,2005,86.0,164.9,143.7,5000.0,52.0,58856.0,0.0,510.5
+Film 0072,Comédie,Réalisateur_38,USA,Coréen,Nordlight,1997,121.0,25.4,12.2,2550.0,43.0,55057.0,1.0,66.5
+Film 0073,Science-Fiction,Réalisateur_11,Canada,Coréen,Sakura Films,1993,70.0,141.7,33.4,5000.0,66.0,118035.0,0.0,693.0
+Film 0074,Comédie,Réalisateur_04,Royaume-Uni,Anglais,Nordlight,1994,124.0,22.3,18.9,1916.0,75.0,236654.0,1.0,81.4
+Film 0075,Animation,Réalisateur_14,USA,Anglais,Nordlight,2014,,,22.9,2186.0,66.0,112557.0,0.0,233.2
+Film 0076,Science-Fiction,Réalisateur_35,USA,Coréen,Majorstudio,2007,113.0,35.4,20.0,3739.0,96.0,463811.0,5.0,246.0
+Film 0077,Drame,Réalisateur_21,Allemagne,Français,Nordlight,2008,110.0,,234.6,,83.0,75422.0,2.0,797.5
+Film 0078,Comédie,Réalisateur_03,Japon,Hindi,Nordlight,2016,133.0,57.5,20.0,3401.0,57.0,21452.0,0.0,232.9
+Film 0079,Horreur,Réalisateur_05,Corée du Sud,Anglais,Lumière,2009,109.0,12.1,9.4,1311.0,57.0,,,30.6
+Film 0080,Animation,Réalisateur_14,Inde,Anglais,Nordlight,2012,100.0,64.7,35.5,1928.0,69.0,56863.0,1.0,457.0
+Film 0081,Romance,Réalisateur_14,France,Anglais,Majorstudio,1993,103.0,17.1,3.8,2377.0,,49406.0,0.0,53.3
+Film 0082,Science-Fiction,Réalisateur_06,Inde,Japonais,Indiepics,2019,135.0,15.0,10.2,1248.0,79.0,117675.0,3.0,136.8
+Film 0083,Comédie,Réalisateur_20,Canada,Coréen,Atlas Pictures,2005,122.0,60.9,52.7,2669.0,67.0,125194.0,1.0,254.2
+Film 0084,Thriller,Réalisateur_20,USA,Allemand,Majorstudio,1995,105.0,25.3,19.7,3125.0,66.0,71998.0,0.0,164.0
+Film 0085,Animation,Réalisateur_08,Corée du Sud,Anglais,Majorstudio,2018,108.0,32.4,,2947.0,72.0,117940.0,0.0,226.1
+Film 0086,Animation,Réalisateur_10,USA,Anglais,Nordlight,2015,84.0,,5.9,1130.0,88.0,129880.0,2.0,194.9
+Film 0087,Action,Réalisateur_27,USA,Anglais,Nordlight,1991,119.0,34.3,29.4,1406.0,65.0,140021.0,0.0,199.1
+Film 0088,Drame,Réalisateur_39,France,Anglais,Nordlight,1996,80.0,37.5,,1387.0,60.0,6415.0,0.0,132.4
+Film 0089,Thriller,Réalisateur_40,Allemagne,Anglais,Majorstudio,1990,126.0,3.5,2.0,700.0,85.0,1273343.0,3.0,89.1
+Film 0090,Thriller,Réalisateur_23,USA,Français,Atlas Pictures,1999,,47.8,31.1,1745.0,77.0,105058.0,3.0,291.2
+Film 0091,Science-Fiction,Réalisateur_02,France,Anglais,Indiepics,1993,155.0,9.2,4.8,1628.0,57.0,212014.0,0.0,93.0
+Film 0092,Thriller,Réalisateur_36,Japon,Anglais,Atlas Pictures,2014,92.0,5.8,2.9,1238.0,62.0,21154.0,0.0,8.7
+Film 0093,Thriller,Réalisateur_39,USA,Français,Sakura Films,2008,,23.1,6.6,,65.0,64509.0,1.0,196.1
+Film 0094,Science-Fiction,Réalisateur_12,Inde,Coréen,Indiepics,2024,144.0,26.7,7.1,2404.0,67.0,51546.0,0.0,128.2
+Film 0095,Romance,Réalisateur_17,Canada,Anglais,Nordlight,2016,133.0,12.3,4.5,1071.0,42.0,529817.0,0.0,77.9
+Film 0096,Drame,Réalisateur_02,USA,Anglais,Majorstudio,2011,99.0,56.3,44.2,1900.0,39.0,43499.0,0.0,130.1
+Film 0097,Comédie,Réalisateur_33,USA,Japonais,Atlas Pictures,2007,116.0,6.4,,1131.0,49.0,,0.0,65.1
+Film 0098,Animation,Réalisateur_32,Canada,Coréen,Indiepics,1991,112.0,16.3,5.8,964.0,48.0,44324.0,0.0,61.3
+Film 0099,Animation,Réalisateur_01,USA,Coréen,Nordlight,1992,117.0,13.7,8.0,845.0,52.0,58493.0,0.0,88.5
+Film 0100,Comédie,Réalisateur_29,USA,Anglais,Majorstudio,2011,99.0,,8.2,1614.0,72.0,89697.0,1.0,81.4
+Film 0101,Thriller,Réalisateur_17,Canada,Français,Nordlight,1990,110.0,32.4,10.2,,59.0,502219.0,0.0,153.5
+Film 0102,Comédie,Réalisateur_22,Allemagne,Hindi,Nordlight,1991,83.0,9.0,5.3,1047.0,65.0,11754.0,1.0,41.7
+Film 0103,Thriller,Réalisateur_09,Japon,Anglais,Indiepics,1997,114.0,50.6,23.2,3816.0,44.0,19136.0,0.0,243.8
+Film 0104,Action,Réalisateur_33,Royaume-Uni,Anglais,Lumière,2020,120.0,26.1,16.7,2764.0,55.0,10017.0,0.0,67.0
+Film 0105,Thriller,Réalisateur_17,Allemagne,Allemand,Indiepics,2006,108.0,3.7,,726.0,71.0,32390.0,0.0,45.0
+Film 0106,Thriller,Réalisateur_34,Japon,Anglais,Indiepics,2014,83.0,3.5,1.1,857.0,71.0,45103.0,0.0,38.2
+Film 0107,Thriller,Réalisateur_06,Japon,Japonais,Sakura Films,2004,,24.2,20.3,1840.0,51.0,14365.0,0.0,121.7
+Film 0108,Animation,Réalisateur_24,Inde,Hindi,Indiepics,1996,119.0,19.7,16.4,2420.0,64.0,46632.0,0.0,197.6
+Film 0109,Science-Fiction,Réalisateur_13,Japon,Anglais,Nordlight,2002,99.0,,17.2,1934.0,95.0,12758.0,2.0,191.3
+Film 0110,Animation,Réalisateur_39,Royaume-Uni,Japonais,Atlas Pictures,1993,107.0,23.9,15.3,1457.0,62.0,32589.0,,136.6
+Film 0111,Drame,Réalisateur_23,France,Anglais,Majorstudio,2016,85.0,30.7,19.5,3381.0,52.0,425197.0,1.0,134.3
+Film 0112,Thriller,Réalisateur_29,Royaume-Uni,Hindi,Sakura Films,1996,94.0,63.3,41.0,2801.0,59.0,174640.0,0.0,89.0
+Film 0113,Horreur,Réalisateur_04,Royaume-Uni,Hindi,Majorstudio,2003,102.0,,,554.0,63.0,139690.0,,60.0
+Film 0114,Science-Fiction,Réalisateur_28,France,Hindi,Majorstudio,2024,134.0,7.6,1.6,752.0,60.0,32597.0,2.0,52.8
+Film 0115,Horreur,Réalisateur_05,France,Anglais,Majorstudio,2010,100.0,8.2,7.1,919.0,62.0,17501.0,0.0,28.8
+Film 0116,Horreur,Réalisateur_15,Inde,Coréen,Majorstudio,2006,124.0,32.8,20.0,2074.0,40.0,,0.0,148.2
+Film 0117,Action,Réalisateur_09,France,Allemand,Nordlight,2009,102.0,85.2,63.6,,48.0,91853.0,0.0,567.2
+Film 0118,Comédie,Réalisateur_01,USA,Français,Lumière,2017,116.0,15.9,,2182.0,60.0,,1.0,111.6
+Film 0119,Comédie,Réalisateur_24,USA,Français,Lumière,1998,109.0,,0.4,360.0,60.0,320665.0,1.0,22.7
+Film 0120,Action,Réalisateur_10,USA,Anglais,Majorstudio,2012,128.0,4.5,2.5,755.0,54.0,218809.0,0.0,70.0
+Film 0121,Science-Fiction,Réalisateur_21,Inde,Hindi,Lumière,2020,102.0,10.7,5.9,1045.0,59.0,44405.0,1.0,106.6
+Film 0122,Animation,Réalisateur_31,France,Anglais,Sakura Films,2010,84.0,14.0,7.1,1932.0,63.0,114884.0,1.0,113.2
+Film 0123,Animation,Réalisateur_08,USA,Anglais,Sakura Films,2005,87.0,16.3,7.1,1053.0,75.0,,1.0,89.5
+Film 0124,Science-Fiction,Réalisateur_29,Inde,Allemand,Atlas Pictures,1995,102.0,25.5,9.6,1264.0,,86071.0,0.0,113.2
+Film 0125,Thriller,Réalisateur_12,USA,Allemand,Nordlight,1998,90.0,18.0,10.2,1704.0,68.0,1342532.0,1.0,132.8
+Film 0126,Horreur,Réalisateur_14,USA,Allemand,Indiepics,2023,,70.1,32.4,4502.0,54.0,12392.0,0.0,248.3
+Film 0127,Action,Réalisateur_24,Inde,Anglais,Sakura Films,2008,104.0,12.5,11.0,1769.0,,90130.0,1.0,90.2
+Film 0128,Thriller,Réalisateur_26,Royaume-Uni,Anglais,Atlas Pictures,2000,155.0,,3.3,1332.0,68.0,498627.0,1.0,27.1
+Film 0129,Horreur,Réalisateur_27,Corée du Sud,Anglais,Atlas Pictures,2004,81.0,39.6,16.8,3474.0,75.0,21249.0,0.0,209.3
+Film 0130,Animation,Réalisateur_08,Inde,Anglais,Indiepics,2010,116.0,5.3,2.2,728.0,73.0,56079.0,0.0,59.5
+Film 0131,Horreur,Réalisateur_24,Canada,Hindi,Lumière,2008,92.0,36.2,21.0,1377.0,71.0,63308.0,0.0,142.7
+Film 0132,Horreur,Réalisateur_11,USA,Français,Indiepics,2014,103.0,27.2,14.9,1341.0,61.0,83819.0,1.0,149.4
+Film 0133,Action,Réalisateur_12,Inde,Anglais,Atlas Pictures,1999,115.0,21.2,,1010.0,66.0,16870.0,0.0,72.4
+Film 0134,Horreur,Réalisateur_38,Corée du Sud,Anglais,Indiepics,2012,70.0,120.1,103.9,4399.0,78.0,,2.0,450.5
+Film 0135,Thriller,Réalisateur_05,USA,Anglais,Majorstudio,2005,116.0,13.2,5.3,1404.0,,223988.0,1.0,71.8
+Film 0136,Drame,Réalisateur_17,Canada,Hindi,Lumière,2022,146.0,192.5,131.9,5000.0,53.0,187139.0,1.0,439.6
+Film 0137,Horreur,Réalisateur_18,France,Japonais,Sakura Films,1995,104.0,19.6,4.3,1897.0,65.0,39947.0,0.0,117.1
+Film 0138,Action,Réalisateur_10,Allemagne,Anglais,Indiepics,1995,117.0,6.8,2.6,929.0,68.0,129227.0,0.0,31.3
+Film 0139,Drame,Réalisateur_32,Royaume-Uni,Anglais,Majorstudio,2006,130.0,26.3,13.8,2513.0,50.0,33546.0,1.0,100.3
+Film 0140,Science-Fiction,Réalisateur_20,Royaume-Uni,Anglais,Majorstudio,2007,109.0,8.4,1.9,1255.0,61.0,73515.0,0.0,117.7
+Film 0141,Romance,Réalisateur_29,USA,Anglais,Indiepics,2014,102.0,11.6,7.3,1068.0,61.0,1452100.0,0.0,63.7
+Film 0142,Comédie,Réalisateur_16,Allemagne,Allemand,Lumière,2004,71.0,36.5,,2198.0,29.0,87475.0,1.0,122.3
+Film 0143,Drame,Réalisateur_36,Royaume-Uni,Japonais,Indiepics,2021,124.0,42.8,30.9,3101.0,59.0,25878.0,1.0,134.0
+Film 0144,Science-Fiction,Réalisateur_30,USA,Anglais,Majorstudio,2006,110.0,13.2,7.4,1547.0,,134822.0,1.0,140.1
+Film 0145,Romance,Réalisateur_14,USA,Coréen,Lumière,1994,94.0,65.9,41.0,3016.0,60.0,21443.0,0.0,197.2
+Film 0146,Thriller,Réalisateur_39,Corée du Sud,Anglais,Lumière,1994,,78.1,37.3,3404.0,83.0,31144.0,2.0,321.0
+Film 0147,Action,Réalisateur_35,USA,Anglais,Indiepics,2024,101.0,103.2,23.6,5000.0,44.0,26603.0,0.0,318.1
+Film 0148,Comédie,Réalisateur_24,Royaume-Uni,Français,Sakura Films,1994,102.0,41.7,11.3,3228.0,50.0,57921.0,0.0,172.6
+Film 0149,Thriller,Réalisateur_01,Japon,Anglais,Sakura Films,2023,123.0,95.9,63.1,2945.0,23.0,221827.0,0.0,400.6
+Film 0150,Action,Réalisateur_24,USA,Anglais,Sakura Films,1999,88.0,3.7,3.3,619.0,55.0,207496.0,1.0,36.3
+Film 0151,Thriller,Réalisateur_28,Royaume-Uni,Hindi,Indiepics,1993,131.0,17.9,3.8,2359.0,,195999.0,0.0,44.8
+Film 0152,Drame,Réalisateur_15,USA,Allemand,Atlas Pictures,2000,87.0,10.3,,652.0,54.0,,0.0,22.3
+Film 0153,Romance,Réalisateur_06,Canada,Anglais,Lumière,2011,,,20.0,2976.0,79.0,66507.0,1.0,124.3
+Film 0154,Drame,Réalisateur_23,Allemagne,Français,Atlas Pictures,2004,147.0,13.9,,,75.0,171022.0,0.0,27.4
+Film 0155,Science-Fiction,Réalisateur_33,USA,Anglais,Lumière,2017,132.0,20.8,12.1,1867.0,63.0,52482.0,0.0,136.5
+Film 0156,Animation,Réalisateur_13,Royaume-Uni,Français,Majorstudio,2011,114.0,161.1,102.1,5000.0,56.0,74924.0,0.0,513.9
+Film 0157,Comédie,Réalisateur_19,Royaume-Uni,Anglais,Sakura Films,2004,95.0,20.7,14.2,943.0,77.0,212915.0,3.0,108.6
+Film 0158,Horreur,Réalisateur_01,Canada,Français,Lumière,2012,102.0,37.1,29.7,3712.0,62.0,72751.0,0.0,195.2
+Film 0159,Horreur,Réalisateur_29,France,Anglais,Sakura Films,2024,113.0,19.4,5.5,1697.0,50.0,129479.0,0.0,34.5
+Film 0160,Thriller,Réalisateur_35,Royaume-Uni,Allemand,Lumière,2004,113.0,26.5,22.5,3117.0,36.0,574038.0,0.0,169.0
+Film 0161,Romance,Réalisateur_32,Allemagne,Hindi,Nordlight,1995,110.0,24.7,5.4,1616.0,55.0,84336.0,0.0,65.2
+Film 0162,Animation,Réalisateur_18,USA,Anglais,Lumière,2004,111.0,,30.2,3658.0,73.0,,0.0,335.1
+Film 0163,Science-Fiction,Réalisateur_02,Royaume-Uni,Coréen,Lumière,2019,108.0,78.7,,5000.0,96.0,,2.0,439.1
+Film 0164,Science-Fiction,Réalisateur_20,USA,Anglais,Sakura Films,1997,86.0,127.4,42.8,5000.0,,19178.0,0.0,478.7
+Film 0165,Science-Fiction,Réalisateur_38,Royaume-Uni,Japonais,Atlas Pictures,2023,103.0,33.4,6.8,1730.0,51.0,26566.0,0.0,125.6
+Film 0166,Thriller,Réalisateur_04,France,Anglais,Sakura Films,2010,128.0,44.2,22.6,3453.0,44.0,34126.0,0.0,158.5
+Film 0167,Drame,Réalisateur_09,Canada,Anglais,Indiepics,2011,,7.8,3.4,1079.0,70.0,42469.0,0.0,32.7
+Film 0168,Comédie,Réalisateur_34,France,Japonais,Sakura Films,2001,109.0,22.5,7.1,2806.0,36.0,76178.0,1.0,106.8
+Film 0169,Drame,Réalisateur_23,USA,Anglais,Lumière,2022,97.0,62.8,32.4,3378.0,70.0,247680.0,1.0,141.4
+Film 0170,Action,Réalisateur_07,Inde,Français,Majorstudio,1991,114.0,58.3,28.1,2643.0,74.0,551999.0,0.0,252.6
+Film 0171,Action,Réalisateur_01,Inde,Français,Indiepics,2000,105.0,30.3,22.3,1483.0,69.0,170036.0,1.0,160.5
+Film 0172,Action,Réalisateur_17,Japon,Anglais,Nordlight,2004,139.0,,49.1,,59.0,63030.0,0.0,534.0
+Film 0173,Thriller,Réalisateur_24,Corée du Sud,Anglais,Nordlight,2006,121.0,40.1,,4051.0,,9736.0,0.0,160.9
+Film 0174,Animation,Réalisateur_34,USA,Français,Sakura Films,2006,88.0,81.5,23.4,2222.0,65.0,123558.0,2.0,296.9
+Film 0175,Animation,Réalisateur_36,Japon,Français,Nordlight,1995,124.0,32.8,13.3,3022.0,50.0,101816.0,1.0,373.3
+Film 0176,Science-Fiction,Réalisateur_19,USA,Anglais,Sakura Films,1997,98.0,17.2,14.4,2360.0,90.0,,3.0,218.4
+Film 0177,Animation,Réalisateur_17,USA,Anglais,Majorstudio,1993,102.0,34.3,9.0,1438.0,57.0,1322649.0,,119.1
+Film 0178,Comédie,Réalisateur_38,Canada,Français,Indiepics,2010,118.0,1.3,0.6,214.0,74.0,542437.0,0.0,50.1
+Film 0179,Romance,Réalisateur_32,Corée du Sud,Japonais,Atlas Pictures,2002,103.0,36.0,31.0,3070.0,26.0,192459.0,0.0,100.2
+Film 0180,Horreur,Réalisateur_09,USA,Coréen,Nordlight,2009,128.0,,0.5,253.0,81.0,40763.0,,52.9
+Film 0181,Romance,Réalisateur_28,USA,Anglais,Atlas Pictures,2010,98.0,4.4,2.1,415.0,84.0,71473.0,3.0,37.6
+Film 0182,Comédie,Réalisateur_29,Canada,Français,Sakura Films,2014,101.0,38.5,25.7,3578.0,62.0,98668.0,1.0,144.8
+Film 0183,Science-Fiction,Réalisateur_10,USA,Français,Indiepics,2009,100.0,39.5,20.5,2787.0,70.0,46716.0,1.0,358.2
+Film 0184,Animation,Réalisateur_40,USA,Anglais,Nordlight,2012,102.0,7.7,5.6,1437.0,70.0,215967.0,0.0,119.3
+Film 0185,Science-Fiction,Réalisateur_12,USA,Anglais,Lumière,2010,132.0,12.0,2.7,1836.0,52.0,154522.0,0.0,146.9
+Film 0186,Science-Fiction,Réalisateur_22,USA,Anglais,Lumière,2012,123.0,96.6,29.1,5000.0,70.0,32092.0,2.0,573.0
+Film 0187,Comédie,Réalisateur_20,USA,Hindi,Majorstudio,2011,143.0,15.1,9.5,1554.0,50.0,415061.0,0.0,57.1
+Film 0188,Science-Fiction,Réalisateur_28,Canada,Anglais,Atlas Pictures,2001,153.0,231.1,83.8,5000.0,53.0,114959.0,0.0,1107.7
+Film 0189,Comédie,Réalisateur_37,USA,Français,Nordlight,1998,93.0,24.5,16.3,2057.0,79.0,,2.0,146.1
+Film 0190,Drame,Réalisateur_16,Royaume-Uni,Français,Majorstudio,2017,113.0,36.9,,1571.0,77.0,117878.0,7.0,114.3
+Film 0191,Animation,Réalisateur_16,Corée du Sud,Anglais,Sakura Films,2001,91.0,123.6,101.4,5000.0,51.0,139720.0,0.0,907.4
+Film 0192,Animation,Réalisateur_31,Royaume-Uni,Hindi,Majorstudio,2009,98.0,,21.7,1404.0,51.0,,0.0,197.0
+Film 0193,Horreur,Réalisateur_39,Corée du Sud,Japonais,Indiepics,1996,101.0,9.0,4.9,1134.0,52.0,,0.0,51.3
+Film 0194,Drame,Réalisateur_37,Japon,Anglais,Atlas Pictures,2005,93.0,22.0,16.3,1063.0,73.0,,0.0,71.3
+Film 0195,Romance,Réalisateur_31,Royaume-Uni,Coréen,Atlas Pictures,2008,93.0,,,1602.0,47.0,119864.0,1.0,74.8
+Film 0196,Action,Réalisateur_29,Japon,Français,Nordlight,2011,109.0,6.3,3.4,663.0,67.0,,3.0,45.3
+Film 0197,Drame,Réalisateur_31,Inde,Anglais,Atlas Pictures,2008,90.0,,6.4,1966.0,73.0,22221.0,2.0,64.4
+Film 0198,Action,Réalisateur_38,Corée du Sud,Japonais,Lumière,2002,,11.7,9.4,1689.0,61.0,421440.0,0.0,118.8
+Film 0199,Drame,Réalisateur_01,Inde,Japonais,Nordlight,2023,95.0,61.8,48.0,1985.0,77.0,526601.0,2.0,135.3
+Film 0200,Romance,Réalisateur_24,USA,Anglais,Indiepics,2007,163.0,25.4,,2821.0,57.0,155616.0,0.0,110.2
+Film 0201,Drame,Réalisateur_02,Japon,Allemand,Sakura Films,2018,104.0,18.5,15.1,2351.0,59.0,,,75.4
+Film 0202,Romance,Réalisateur_24,Corée du Sud,Français,Majorstudio,2015,113.0,22.1,19.3,1619.0,47.0,340262.0,0.0,103.8
+Film 0203,Science-Fiction,Réalisateur_16,USA,Français,Lumière,2009,89.0,30.7,,2713.0,77.0,284751.0,0.0,257.4
+Film 0204,Animation,Réalisateur_13,Allemagne,Anglais,Nordlight,2021,143.0,45.5,38.8,2676.0,51.0,33402.0,3.0,272.4
+Film 0205,Science-Fiction,Réalisateur_36,USA,Anglais,Atlas Pictures,1994,132.0,9.0,,733.0,67.0,922385.0,0.0,55.2
+Film 0206,Drame,Réalisateur_29,USA,Anglais,Atlas Pictures,2022,117.0,8.7,4.3,1130.0,61.0,208547.0,0.0,59.2
+Film 0207,Thriller,Réalisateur_23,Allemagne,Français,Nordlight,2019,88.0,74.0,43.8,2327.0,46.0,59645.0,0.0,218.0
+Film 0208,Romance,Réalisateur_36,USA,Français,Lumière,2007,116.0,16.2,7.1,2199.0,53.0,45599.0,0.0,69.6
+Film 0209,Drame,Réalisateur_04,France,Coréen,Atlas Pictures,2015,92.0,5.9,,1239.0,83.0,178674.0,5.0,43.4
+Film 0210,Thriller,Réalisateur_26,France,Anglais,Lumière,2008,138.0,38.2,,3527.0,65.0,15283.0,0.0,138.6
+Film 0211,Drame,Réalisateur_07,Allemagne,Japonais,Majorstudio,1999,127.0,39.0,10.1,2871.0,47.0,221715.0,0.0,144.3
+Film 0212,Animation,Réalisateur_10,France,Coréen,Nordlight,2017,114.0,5.3,2.9,863.0,67.0,36780.0,0.0,89.7
+Film 0213,Thriller,Réalisateur_08,Japon,Coréen,Lumière,1998,70.0,30.9,25.4,,60.0,169404.0,0.0,169.0
+Film 0214,Science-Fiction,Réalisateur_22,Inde,Coréen,Atlas Pictures,2001,94.0,51.2,32.8,2380.0,100.0,79183.0,2.0,337.3
+Film 0215,Animation,Réalisateur_26,Japon,Hindi,Nordlight,2008,124.0,35.7,20.2,,66.0,83376.0,0.0,231.2
+Film 0216,Drame,Réalisateur_31,Canada,Anglais,Majorstudio,2019,134.0,46.2,23.1,3177.0,56.0,42192.0,0.0,119.5
+Film 0217,Action,Réalisateur_18,Inde,Japonais,Indiepics,2003,132.0,6.0,3.2,729.0,83.0,108196.0,5.0,99.9
+Film 0218,Action,Réalisateur_38,France,Allemand,Sakura Films,2007,83.0,34.2,11.9,2054.0,34.0,800428.0,0.0,191.4
+Film 0219,Science-Fiction,Réalisateur_15,Canada,Français,Sakura Films,1991,117.0,,14.0,,63.0,587887.0,0.0,108.2
+Film 0220,Romance,Réalisateur_07,Royaume-Uni,Anglais,Lumière,1994,130.0,,5.1,,92.0,214493.0,3.0,92.1
+Film 0221,Comédie,Réalisateur_02,USA,Allemand,Majorstudio,1991,82.0,58.6,41.1,2636.0,60.0,105341.0,0.0,185.8
+Film 0222,Science-Fiction,Réalisateur_06,USA,Anglais,Nordlight,1992,112.0,107.7,78.8,3419.0,36.0,,,646.9
+Film 0223,Animation,Réalisateur_18,Japon,Anglais,Indiepics,2020,117.0,147.6,88.9,3246.0,56.0,406051.0,0.0,557.5
+Film 0224,Comédie,Réalisateur_17,USA,Anglais,Lumière,2019,107.0,91.4,73.5,3894.0,84.0,48868.0,3.0,380.8
+Film 0225,Animation,Réalisateur_35,Royaume-Uni,Anglais,Majorstudio,2018,79.0,22.0,8.9,2643.0,68.0,106148.0,0.0,111.1
+Film 0226,Drame,Réalisateur_06,France,Anglais,Indiepics,1991,106.0,34.9,28.5,2115.0,49.0,10977.0,0.0,74.9
+Film 0227,Thriller,Réalisateur_11,Royaume-Uni,Anglais,Indiepics,1992,106.0,52.8,37.5,3822.0,52.0,387521.0,1.0,192.2
+Film 0228,Horreur,Réalisateur_40,USA,Allemand,Majorstudio,1999,109.0,27.7,21.0,2766.0,,1223529.0,0.0,110.1
+Film 0229,Horreur,Réalisateur_02,Inde,Anglais,Sakura Films,2009,102.0,28.0,18.6,1834.0,67.0,127147.0,0.0,166.2
+Film 0230,Comédie,Réalisateur_17,France,Français,Sakura Films,2001,104.0,55.9,44.3,4433.0,82.0,10174.0,1.0,180.7
+Film 0231,Science-Fiction,Réalisateur_08,USA,Hindi,Sakura Films,2007,111.0,23.1,,2352.0,78.0,262375.0,3.0,197.4
+Film 0232,Thriller,Réalisateur_22,France,Coréen,Lumière,1996,120.0,11.8,5.8,,69.0,39698.0,1.0,99.2
+Film 0233,Action,Réalisateur_39,France,Anglais,Nordlight,2015,107.0,16.2,12.5,799.0,42.0,40970.0,0.0,74.7
+Film 0234,Thriller,Réalisateur_10,Japon,Anglais,Indiepics,2000,105.0,46.2,,1601.0,42.0,192627.0,0.0,157.9
+Film 0235,Science-Fiction,Réalisateur_15,Royaume-Uni,Français,Nordlight,1992,114.0,24.6,12.7,3056.0,70.0,160779.0,0.0,146.3
+Film 0236,Animation,Réalisateur_18,USA,Hindi,Atlas Pictures,2015,77.0,34.5,29.3,3220.0,42.0,50559.0,1.0,278.1
+Film 0237,Animation,Réalisateur_32,Allemagne,Français,Sakura Films,2021,121.0,47.9,,4395.0,59.0,49348.0,0.0,349.0
+Film 0238,Science-Fiction,Réalisateur_40,France,Anglais,Indiepics,1990,112.0,16.9,10.1,2295.0,67.0,134324.0,0.0,173.6
+Film 0239,Drame,Réalisateur_04,USA,Japonais,Atlas Pictures,2005,113.0,52.3,14.3,1677.0,45.0,57374.0,0.0,122.7
+Film 0240,Animation,Réalisateur_20,Corée du Sud,Japonais,Atlas Pictures,2018,129.0,35.8,12.8,3316.0,47.0,25297.0,0.0,216.2
+Film 0241,Comédie,Réalisateur_31,Japon,Français,Indiepics,2014,77.0,7.1,5.6,925.0,,73518.0,0.0,26.2
+Film 0242,Horreur,Réalisateur_01,Japon,Hindi,Sakura Films,2019,76.0,103.8,49.6,5000.0,70.0,178052.0,0.0,279.6
+Film 0243,Action,Réalisateur_33,France,Coréen,Sakura Films,2004,117.0,14.9,7.1,769.0,78.0,102042.0,5.0,177.2
+Film 0244,Animation,Réalisateur_10,France,Japonais,Indiepics,2003,112.0,4.7,1.7,598.0,71.0,21904.0,0.0,78.1
+Film 0245,Animation,Réalisateur_21,Royaume-Uni,Japonais,Majorstudio,2014,115.0,8.6,4.7,1365.0,63.0,365527.0,0.0,74.9
+Film 0246,Action,Réalisateur_40,USA,Japonais,Atlas Pictures,1995,104.0,8.8,6.7,1430.0,51.0,3727.0,0.0,70.5
+Film 0247,Thriller,Réalisateur_26,USA,Français,Sakura Films,1998,124.0,25.8,21.3,2362.0,46.0,55467.0,0.0,112.0
+Film 0248,Science-Fiction,Réalisateur_40,Canada,Anglais,Atlas Pictures,2011,129.0,18.7,4.7,1393.0,54.0,48775.0,0.0,82.4
+Film 0249,Thriller,Réalisateur_25,Japon,Japonais,Nordlight,2013,121.0,17.5,10.5,1354.0,68.0,139153.0,1.0,98.2
+Film 0250,Action,Réalisateur_09,France,Français,Sakura Films,1994,107.0,45.6,24.0,4354.0,,226613.0,1.0,248.7
+Film 0251,Comédie,Réalisateur_28,USA,Anglais,Lumière,2007,74.0,34.5,21.7,2358.0,,309093.0,0.0,91.0
+Film 0252,Science-Fiction,Réalisateur_25,Corée du Sud,Anglais,Indiepics,2002,126.0,33.7,17.3,2345.0,50.0,41987.0,1.0,135.4
+Film 0253,Comédie,Réalisateur_13,USA,Japonais,Sakura Films,2007,134.0,37.0,17.7,2755.0,80.0,259435.0,1.0,91.7
+Film 0254,Drame,Réalisateur_04,USA,Français,Majorstudio,2023,124.0,45.4,24.1,2693.0,63.0,141097.0,1.0,102.3
+Film 0255,Animation,Réalisateur_26,USA,Anglais,Majorstudio,1992,96.0,3.0,1.8,611.0,41.0,,0.0,9.9
+Film 0256,Comédie,Réalisateur_24,Corée du Sud,Anglais,Lumière,2024,124.0,,,1531.0,97.0,1419636.0,2.0,91.3
+Film 0257,Animation,Réalisateur_31,Japon,Anglais,Majorstudio,2005,127.0,2.8,1.5,738.0,62.0,19669.0,0.0,64.8
+Film 0258,Action,Réalisateur_06,USA,Allemand,Sakura Films,2017,140.0,25.4,19.6,2944.0,68.0,192704.0,0.0,169.6
+Film 0259,Comédie,Réalisateur_22,USA,Hindi,Sakura Films,2004,96.0,24.4,17.6,2921.0,68.0,185993.0,0.0,135.7
+Film 0260,Horreur,Réalisateur_33,Japon,Français,Atlas Pictures,2000,108.0,69.8,,4078.0,56.0,,0.0,240.1
+Film 0261,Thriller,Réalisateur_36,Royaume-Uni,Anglais,Sakura Films,2016,125.0,80.4,61.1,3930.0,51.0,55075.0,1.0,246.1
+Film 0262,Comédie,Réalisateur_38,Japon,Japonais,Atlas Pictures,2014,113.0,30.0,23.9,2783.0,94.0,383596.0,3.0,176.6
+Film 0263,Drame,Réalisateur_09,USA,Français,Lumière,1995,92.0,14.9,4.6,2030.0,77.0,19275.0,2.0,30.2
+Film 0264,Romance,Réalisateur_07,Corée du Sud,Allemand,Atlas Pictures,2014,119.0,39.9,24.3,2912.0,74.0,113110.0,,160.5
+Film 0265,Romance,Réalisateur_24,Canada,Anglais,Atlas Pictures,2016,122.0,14.5,5.8,1791.0,71.0,60716.0,0.0,44.3
+Film 0266,Horreur,Réalisateur_19,Royaume-Uni,Anglais,Majorstudio,2003,114.0,24.5,17.6,2555.0,47.0,42480.0,0.0,156.8
+Film 0267,Science-Fiction,Réalisateur_10,USA,Français,Indiepics,2022,116.0,65.8,24.2,4351.0,81.0,216322.0,7.0,398.6
+Film 0268,Drame,Réalisateur_05,Japon,Anglais,Nordlight,2012,107.0,14.0,9.4,1821.0,49.0,356085.0,,80.3
+Film 0269,Horreur,Réalisateur_06,USA,Français,Sakura Films,2001,139.0,,,2351.0,66.0,75850.0,0.0,123.5
+Film 0270,Horreur,Réalisateur_14,USA,Coréen,Atlas Pictures,1990,96.0,48.3,26.9,,37.0,219160.0,0.0,138.8
+Film 0271,Drame,Réalisateur_30,USA,Anglais,Atlas Pictures,2013,101.0,9.4,,1252.0,31.0,84878.0,0.0,47.2
+Film 0272,Action,Réalisateur_03,Allemagne,Anglais,Majorstudio,1997,112.0,65.0,30.3,1845.0,67.0,39566.0,0.0,350.1
+Film 0273,Comédie,Réalisateur_05,France,Japonais,Indiepics,2016,128.0,,40.1,4218.0,50.0,72436.0,,285.2
+Film 0274,Romance,Réalisateur_11,Allemagne,Hindi,Majorstudio,2008,85.0,27.2,24.2,2417.0,,56510.0,0.0,99.2
+Film 0275,Science-Fiction,Réalisateur_35,Royaume-Uni,Anglais,Sakura Films,2006,88.0,11.4,9.3,,70.0,51345.0,1.0,150.8
+Film 0276,Science-Fiction,Réalisateur_40,Royaume-Uni,Anglais,Sakura Films,1995,75.0,,3.3,1610.0,,,5.0,139.6
+Film 0277,Science-Fiction,Réalisateur_18,USA,Français,Majorstudio,2014,113.0,14.3,11.1,1801.0,83.0,173990.0,4.0,239.1
+Film 0278,Thriller,Réalisateur_02,Japon,Anglais,Lumière,1995,92.0,42.2,,3565.0,58.0,15807.0,0.0,109.3
+Film 0279,Action,Réalisateur_01,USA,Coréen,Indiepics,2004,105.0,9.4,4.5,,62.0,15237.0,0.0,85.8
+Film 0280,Action,Réalisateur_35,France,Français,Sakura Films,2019,124.0,38.0,30.8,3603.0,75.0,205410.0,0.0,105.8
+Film 0281,Drame,Réalisateur_18,USA,Anglais,Atlas Pictures,2022,100.0,7.1,4.8,889.0,79.0,47873.0,4.0,19.3
+Film 0282,Science-Fiction,Réalisateur_04,France,Coréen,Majorstudio,2024,116.0,20.0,11.5,1938.0,57.0,151768.0,0.0,155.1
+Film 0283,Animation,Réalisateur_34,Royaume-Uni,Français,Lumière,2023,107.0,27.4,12.9,1095.0,63.0,284741.0,0.0,87.1
+Film 0284,Science-Fiction,Réalisateur_22,USA,Anglais,Lumière,2009,124.0,282.9,217.4,5000.0,67.0,25131.0,1.0,1538.8
+Film 0285,Science-Fiction,Réalisateur_14,USA,Français,Lumière,1997,121.0,6.2,4.3,1092.0,70.0,21774.0,0.0,100.7
+Film 0286,Romance,Réalisateur_19,Canada,Allemand,Majorstudio,2019,100.0,106.9,56.4,5000.0,60.0,809869.0,1.0,252.4
+Film 0287,Comédie,Réalisateur_10,USA,Japonais,Nordlight,2018,109.0,28.5,23.5,2231.0,60.0,165578.0,0.0,83.7
+Film 0288,Horreur,Réalisateur_38,USA,Anglais,Indiepics,2024,131.0,,13.4,3430.0,83.0,79387.0,3.0,156.4
+Film 0289,Horreur,Réalisateur_32,USA,Japonais,Nordlight,2012,119.0,27.6,8.8,2594.0,80.0,41841.0,2.0,106.8
+Film 0290,Science-Fiction,Réalisateur_08,France,Anglais,Lumière,1994,87.0,,24.9,2080.0,69.0,63667.0,0.0,209.9
+Film 0291,Thriller,Réalisateur_30,Japon,Français,Atlas Pictures,2007,124.0,21.0,18.5,2720.0,88.0,32643.0,4.0,167.8
+Film 0292,Drame,Réalisateur_08,USA,Français,Atlas Pictures,2005,92.0,105.0,39.2,5000.0,56.0,302055.0,0.0,209.7
+Film 0293,Romance,Réalisateur_19,France,Anglais,Nordlight,2019,137.0,15.5,5.8,2312.0,86.0,52859.0,2.0,121.3
+Film 0294,Drame,Réalisateur_30,Japon,Anglais,Lumière,2003,130.0,76.1,22.7,5000.0,70.0,440015.0,1.0,157.9
+Film 0295,Horreur,Réalisateur_02,USA,Allemand,Lumière,2001,117.0,12.9,,1974.0,100.0,91556.0,1.0,173.3
+Film 0296,Horreur,Réalisateur_30,Canada,Anglais,Atlas Pictures,1992,115.0,23.1,8.3,2478.0,44.0,26532.0,1.0,69.8
+Film 0297,Thriller,Réalisateur_10,Canada,Coréen,Atlas Pictures,2019,108.0,8.4,4.6,1193.0,52.0,60370.0,1.0,51.7
+Film 0298,Science-Fiction,Réalisateur_28,USA,Japonais,Sakura Films,2016,124.0,38.7,,1808.0,68.0,4997.0,0.0,323.8
+Film 0299,Drame,Réalisateur_20,USA,Français,Majorstudio,1991,105.0,104.1,,5000.0,68.0,,0.0,275.7
+Film 0300,Action,Réalisateur_02,USA,Anglais,Indiepics,2005,116.0,,13.4,2471.0,91.0,113487.0,3.0,185.9
+Film 0301,Drame,Réalisateur_31,USA,Anglais,Atlas Pictures,2006,128.0,20.1,11.2,,52.0,270897.0,0.0,80.5
+Film 0302,Thriller,Réalisateur_11,France,Anglais,Indiepics,2006,102.0,,,1429.0,76.0,12933.0,3.0,96.8
+Film 0303,Action,Réalisateur_39,Royaume-Uni,Français,Indiepics,2022,101.0,19.5,8.7,1087.0,79.0,513437.0,2.0,113.0
+Film 0304,Romance,Réalisateur_34,France,Allemand,Lumière,1995,91.0,,2.4,694.0,73.0,325050.0,0.0,34.3
+Film 0305,Horreur,Réalisateur_08,USA,Hindi,Nordlight,2000,93.0,9.8,3.1,1187.0,48.0,434630.0,0.0,82.9
+Film 0306,Comédie,Réalisateur_25,USA,Anglais,Lumière,1996,79.0,30.8,22.1,2187.0,83.0,123243.0,4.0,153.7
+Film 0307,Drame,Réalisateur_15,Canada,Anglais,Indiepics,1998,125.0,91.7,68.7,2747.0,80.0,433237.0,1.0,257.6
+Film 0308,Horreur,Réalisateur_25,Allemagne,Anglais,Nordlight,2021,145.0,400.0,118.3,5000.0,71.0,20438.0,0.0,1135.8
+Film 0309,Drame,Réalisateur_23,USA,Allemand,Nordlight,2022,138.0,13.6,6.5,1921.0,65.0,,0.0,18.7
+Film 0310,Action,Réalisateur_12,Japon,Anglais,Nordlight,1991,83.0,103.1,,,65.0,44998.0,1.0,558.7
+Film 0311,Animation,Réalisateur_27,France,Anglais,Nordlight,2012,125.0,31.3,6.3,1300.0,61.0,,0.0,108.1
+Film 0312,Animation,Réalisateur_11,Japon,Français,Indiepics,1998,,21.1,8.6,966.0,72.0,31253.0,,87.3
+Film 0313,Action,Réalisateur_37,Royaume-Uni,Français,Atlas Pictures,1996,104.0,37.8,,,62.0,111298.0,0.0,316.9
+Film 0314,Drame,Réalisateur_38,Allemagne,Anglais,Indiepics,2000,114.0,26.1,11.3,1411.0,49.0,36344.0,1.0,60.9
+Film 0315,Comédie,Réalisateur_07,USA,Japonais,Nordlight,1996,76.0,27.4,10.7,2635.0,46.0,148816.0,0.0,73.4
+Film 0316,Animation,Réalisateur_30,USA,Anglais,Lumière,2007,117.0,16.3,8.5,2074.0,51.0,11385.0,2.0,186.8
+Film 0317,Animation,Réalisateur_38,Canada,Anglais,Nordlight,2024,93.0,,2.0,647.0,65.0,8842.0,0.0,14.1
+Film 0318,Animation,Réalisateur_06,USA,Anglais,Majorstudio,2010,116.0,5.2,3.0,881.0,62.0,573890.0,1.0,72.6
+Film 0319,Romance,Réalisateur_30,USA,Anglais,Majorstudio,2015,84.0,,32.7,,65.0,335817.0,0.0,179.8
+Film 0320,Thriller,Réalisateur_38,Corée du Sud,Allemand,Nordlight,2007,122.0,,11.2,1393.0,70.0,,0.0,96.9
+Film 0321,Drame,Réalisateur_10,Corée du Sud,Français,Sakura Films,1990,130.0,13.5,3.6,1986.0,53.0,101312.0,2.0,19.4
+Film 0322,Action,Réalisateur_24,Japon,Coréen,Lumière,1992,98.0,24.7,19.5,2145.0,84.0,449584.0,2.0,203.5
+Film 0323,Horreur,Réalisateur_32,Corée du Sud,Anglais,Majorstudio,1999,92.0,54.3,17.5,4568.0,58.0,176310.0,1.0,187.6
+Film 0324,Romance,Réalisateur_14,Japon,Japonais,Sakura Films,1998,73.0,29.4,21.6,1654.0,55.0,123829.0,0.0,124.1
+Film 0325,Romance,Réalisateur_10,USA,Allemand,Indiepics,2019,107.0,12.7,,1144.0,69.0,437197.0,1.0,45.0
+Film 0326,Comédie,Réalisateur_16,Royaume-Uni,Anglais,Nordlight,2019,102.0,83.6,62.5,4146.0,34.0,34503.0,1.0,350.9
+Film 0327,Comédie,Réalisateur_14,Corée du Sud,Allemand,Nordlight,2019,84.0,119.0,41.0,5000.0,50.0,102479.0,1.0,459.8
+Film 0328,Action,Réalisateur_30,Allemagne,Français,Indiepics,2012,120.0,40.2,13.3,4122.0,77.0,122712.0,0.0,203.0
+Film 0329,Comédie,Réalisateur_15,USA,Japonais,Majorstudio,2009,104.0,65.0,35.6,2256.0,36.0,61198.0,0.0,184.5
+Film 0330,Horreur,Réalisateur_16,USA,Anglais,Majorstudio,2012,93.0,84.9,18.9,5000.0,79.0,79768.0,2.0,326.4
+Film 0331,Horreur,Réalisateur_38,Inde,Français,Sakura Films,2004,102.0,76.0,27.2,5000.0,85.0,145444.0,0.0,238.2
+Film 0332,Drame,Réalisateur_24,USA,Français,Indiepics,2013,131.0,45.3,32.0,3114.0,56.0,109050.0,1.0,139.7
+Film 0333,Drame,Réalisateur_38,USA,Allemand,Indiepics,2017,123.0,44.6,35.1,2472.0,66.0,32543.0,0.0,113.4
+Film 0334,Thriller,Réalisateur_29,Inde,Hindi,Majorstudio,2016,110.0,41.3,10.6,2851.0,79.0,333300.0,1.0,163.3
+Film 0335,Science-Fiction,Réalisateur_36,Royaume-Uni,Anglais,Majorstudio,2011,123.0,8.2,6.7,840.0,55.0,32117.0,1.0,85.3
+Film 0336,Thriller,Réalisateur_08,USA,Allemand,Majorstudio,1992,91.0,,37.5,4046.0,75.0,,0.0,217.5
+Film 0337,Romance,Réalisateur_38,USA,Hindi,Nordlight,2015,113.0,,5.1,904.0,52.0,70648.0,0.0,36.0
+Film 0338,Drame,Réalisateur_38,USA,Français,Majorstudio,2002,115.0,11.1,7.6,1813.0,55.0,159295.0,1.0,40.8
+Film 0339,Comédie,Réalisateur_02,Inde,Anglais,Indiepics,2016,104.0,90.3,60.7,5000.0,50.0,7763.0,0.0,259.5
+Film 0340,Romance,Réalisateur_15,France,Anglais,Indiepics,2008,120.0,56.8,32.2,3435.0,67.0,336413.0,1.0,177.8
+Film 0341,Animation,Réalisateur_17,USA,Anglais,Indiepics,2020,98.0,,71.3,,79.0,56515.0,7.0,590.0
+Film 0342,Drame,Réalisateur_17,France,Anglais,Majorstudio,2001,121.0,18.7,,1746.0,59.0,465159.0,0.0,59.2
+Film 0343,Horreur,Réalisateur_32,USA,Allemand,Majorstudio,2022,122.0,7.8,2.1,1445.0,43.0,51722.0,0.0,49.9
+Film 0344,Horreur,Réalisateur_28,USA,Anglais,Lumière,2019,70.0,19.3,8.1,1213.0,46.0,89372.0,1.0,24.6
+Film 0345,Romance,Réalisateur_09,USA,Japonais,Atlas Pictures,2001,133.0,27.2,6.8,,68.0,1157829.0,0.0,94.9
+Film 0346,Drame,Réalisateur_25,Royaume-Uni,Français,Majorstudio,2006,70.0,26.5,22.8,2812.0,90.0,99078.0,3.0,103.5
+Film 0347,Romance,Réalisateur_39,USA,Français,Indiepics,2008,101.0,76.2,39.0,5000.0,68.0,515109.0,1.0,190.5
+Film 0348,Romance,Réalisateur_18,USA,Anglais,Nordlight,2016,130.0,17.1,11.5,1620.0,56.0,,0.0,101.4
+Film 0349,Comédie,Réalisateur_38,France,Français,Lumière,2014,106.0,34.9,27.5,3381.0,,199889.0,1.0,166.6
+Film 0350,Comédie,Réalisateur_26,France,Français,Lumière,2019,86.0,9.1,8.1,911.0,58.0,,2.0,43.5
+Film 0351,Horreur,Réalisateur_37,USA,Français,Atlas Pictures,2002,92.0,38.5,12.1,3384.0,56.0,289436.0,1.0,135.5
+Film 0352,Action,Réalisateur_37,USA,Anglais,Majorstudio,2007,130.0,,18.7,1313.0,48.0,42496.0,0.0,139.9
+Film 0353,Drame,Réalisateur_01,USA,Japonais,Nordlight,2005,77.0,11.6,9.5,1054.0,83.0,40309.0,3.0,31.9
+Film 0354,Science-Fiction,Réalisateur_33,France,Anglais,Nordlight,2021,132.0,19.4,4.5,1681.0,24.0,33949.0,0.0,108.9
+Film 0355,Romance,Réalisateur_08,Corée du Sud,Français,Sakura Films,2000,111.0,20.4,14.8,1506.0,74.0,137966.0,1.0,59.9
+Film 0356,Romance,Réalisateur_33,USA,Anglais,Lumière,2010,91.0,18.7,8.4,1542.0,,79523.0,0.0,52.9
+Film 0357,Comédie,Réalisateur_33,Inde,Anglais,Indiepics,1994,102.0,144.2,94.3,,56.0,245389.0,0.0,165.3
+Film 0358,Romance,Réalisateur_11,Corée du Sud,Coréen,Sakura Films,2019,94.0,22.2,12.4,,87.0,647251.0,3.0,62.2
+Film 0359,Action,Réalisateur_03,USA,Anglais,Indiepics,2003,128.0,19.2,7.3,2200.0,51.0,30913.0,0.0,180.4
+Film 0360,Animation,Réalisateur_17,USA,Allemand,Indiepics,2001,125.0,3.0,0.9,333.0,52.0,,1.0,50.8
+Film 0361,Thriller,Réalisateur_13,USA,Hindi,Indiepics,2010,81.0,10.0,2.8,1512.0,,19377.0,0.0,79.1
+Film 0362,Romance,Réalisateur_23,USA,Anglais,Atlas Pictures,2007,105.0,18.9,5.1,2261.0,68.0,1331694.0,1.0,143.2
+Film 0363,Comédie,Réalisateur_04,Royaume-Uni,Anglais,Nordlight,2019,,12.4,8.0,1225.0,55.0,,0.0,56.1
+Film 0364,Romance,Réalisateur_02,USA,Anglais,Atlas Pictures,2008,135.0,97.7,43.6,5000.0,38.0,154497.0,0.0,227.6
+Film 0365,Action,Réalisateur_18,Inde,Hindi,Atlas Pictures,2008,88.0,20.8,7.3,2623.0,49.0,19569.0,0.0,91.7
+Film 0366,Horreur,Réalisateur_31,France,Français,Nordlight,1993,141.0,,60.9,5000.0,81.0,129136.0,6.0,461.6
+Film 0367,Science-Fiction,Réalisateur_13,Corée du Sud,Anglais,Lumière,1990,,26.1,,1891.0,63.0,205523.0,2.0,185.9
+Film 0368,Drame,Réalisateur_13,Corée du Sud,Français,Majorstudio,2003,91.0,,14.7,2061.0,69.0,86738.0,1.0,139.6
+Film 0369,Action,Réalisateur_07,Royaume-Uni,Anglais,Lumière,2024,100.0,22.4,19.1,2479.0,58.0,387630.0,2.0,135.1
+Film 0370,Thriller,Réalisateur_12,Allemagne,Français,Majorstudio,2022,98.0,24.6,11.6,1625.0,52.0,1613635.0,0.0,170.0
+Film 0371,Drame,Réalisateur_12,Canada,Français,Nordlight,2012,89.0,,107.4,5000.0,87.0,43405.0,4.0,329.4
+Film 0372,Animation,Réalisateur_11,France,Anglais,Atlas Pictures,2012,114.0,2.4,0.6,420.0,59.0,31561.0,0.0,58.6
+Film 0373,Science-Fiction,Réalisateur_14,USA,Coréen,Atlas Pictures,2003,90.0,3.3,2.4,802.0,55.0,36152.0,0.0,64.9
+Film 0374,Drame,Réalisateur_12,France,Anglais,Indiepics,1996,73.0,14.3,12.8,869.0,78.0,868306.0,3.0,39.4
+Film 0375,Romance,Réalisateur_28,USA,Français,Lumière,1990,105.0,24.9,19.7,1124.0,51.0,348285.0,0.0,62.1
+Film 0376,Action,Réalisateur_14,Royaume-Uni,Français,Majorstudio,2001,,,29.6,4636.0,53.0,86416.0,0.0,208.2
+Film 0377,Animation,Réalisateur_31,France,Allemand,Atlas Pictures,2001,98.0,,25.2,3724.0,62.0,115520.0,0.0,174.0
+Film 0378,Animation,Réalisateur_25,France,Anglais,Sakura Films,1996,96.0,16.7,7.5,2247.0,62.0,41501.0,1.0,139.0
+Film 0379,Science-Fiction,Réalisateur_26,Corée du Sud,Hindi,Indiepics,1999,96.0,68.0,,5000.0,66.0,333185.0,0.0,415.2
+Film 0380,Drame,Réalisateur_24,USA,Anglais,Lumière,1990,148.0,68.7,50.8,3562.0,93.0,89482.0,3.0,191.9
+Film 0381,Action,Réalisateur_37,Royaume-Uni,Hindi,Atlas Pictures,2011,113.0,29.5,,1798.0,67.0,84534.0,0.0,212.3
+Film 0382,Romance,Réalisateur_11,USA,Anglais,Majorstudio,2022,116.0,64.2,35.0,2296.0,26.0,155766.0,,81.7
+Film 0383,Romance,Réalisateur_40,Inde,Japonais,Majorstudio,2014,80.0,32.2,7.8,2412.0,67.0,92172.0,0.0,129.9
+Film 0384,Comédie,Réalisateur_09,Japon,Anglais,Majorstudio,2005,100.0,14.0,8.6,1052.0,63.0,84142.0,1.0,51.2
+Film 0385,Action,Réalisateur_06,USA,Allemand,Nordlight,2004,116.0,49.3,14.0,4465.0,63.0,112973.0,0.0,313.2
+Film 0386,Action,Réalisateur_34,Japon,Allemand,Nordlight,2000,94.0,,10.2,,66.0,297404.0,1.0,149.7
+Film 0387,Action,Réalisateur_36,USA,Anglais,Atlas Pictures,1994,,24.6,,1318.0,62.0,797407.0,1.0,192.9
+Film 0388,Thriller,Réalisateur_04,Corée du Sud,Français,Atlas Pictures,2010,90.0,107.0,76.2,3696.0,61.0,221227.0,0.0,356.6
+Film 0389,Romance,Réalisateur_24,Royaume-Uni,Français,Majorstudio,2009,107.0,2.1,0.7,327.0,,313200.0,1.0,0.5
+Film 0390,Comédie,Réalisateur_21,France,Anglais,Nordlight,1990,101.0,5.9,1.9,,54.0,80773.0,0.0,22.6
+Film 0391,Animation,Réalisateur_09,Japon,Japonais,Atlas Pictures,2004,115.0,7.5,1.7,1162.0,48.0,41375.0,0.0,75.9
+Film 0392,Comédie,Réalisateur_21,Inde,Japonais,Lumière,1999,100.0,17.1,13.9,1364.0,,324567.0,1.0,71.6
+Film 0393,Drame,Réalisateur_28,Corée du Sud,Français,Indiepics,1995,107.0,19.0,13.0,1957.0,51.0,122448.0,0.0,63.4
+Film 0394,Horreur,Réalisateur_23,Royaume-Uni,Anglais,Majorstudio,2014,108.0,5.4,1.2,1147.0,64.0,20412.0,1.0,42.8
+Film 0395,Animation,Réalisateur_21,Corée du Sud,Hindi,Majorstudio,2008,99.0,9.2,2.0,1253.0,40.0,59931.0,0.0,35.2
+Film 0396,Thriller,Réalisateur_36,France,Anglais,Nordlight,2012,121.0,10.4,6.1,1461.0,64.0,101880.0,0.0,86.0
+Film 0397,Action,Réalisateur_10,Inde,Français,Nordlight,2014,116.0,286.4,113.9,5000.0,48.0,52431.0,1.0,904.0
+Film 0398,Comédie,Réalisateur_25,Inde,Anglais,Nordlight,2024,110.0,148.7,91.9,3980.0,55.0,613462.0,0.0,377.2
+Film 0399,Drame,Réalisateur_13,USA,Anglais,Majorstudio,2018,104.0,16.3,8.2,1314.0,78.0,224733.0,0.0,49.1
+Film 0400,Drame,Réalisateur_39,USA,Anglais,Nordlight,2011,126.0,17.1,14.5,2413.0,69.0,610335.0,0.0,114.5
+Film 0401,Romance,Réalisateur_11,USA,Anglais,Indiepics,2020,108.0,7.8,3.1,1154.0,71.0,163854.0,0.0,41.2
+Film 0402,Thriller,Réalisateur_35,USA,Français,Nordlight,2006,106.0,3.6,2.4,503.0,35.0,92517.0,2.0,41.2
+Film 0403,Drame,Réalisateur_26,France,Français,Majorstudio,2024,114.0,21.8,5.2,1813.0,90.0,,2.0,65.2
+Film 0404,Romance,Réalisateur_09,USA,Japonais,Atlas Pictures,2016,143.0,9.0,7.8,,44.0,94131.0,1.0,50.0
+Film 0405,Science-Fiction,Réalisateur_31,Royaume-Uni,Japonais,Nordlight,2012,88.0,22.5,,,85.0,135370.0,3.0,297.7
+Film 0406,Horreur,Réalisateur_10,USA,Anglais,Indiepics,2021,126.0,5.0,3.6,836.0,77.0,24306.0,3.0,69.0
+Film 0407,Science-Fiction,Réalisateur_11,USA,Anglais,Lumière,2008,78.0,11.5,6.0,1799.0,71.0,62517.0,0.0,137.9
+Film 0408,Comédie,Réalisateur_14,Japon,Français,Atlas Pictures,2015,116.0,28.5,10.1,2625.0,49.0,66304.0,0.0,127.5
+Film 0409,Romance,Réalisateur_28,France,Japonais,Majorstudio,1999,140.0,35.4,27.2,2914.0,64.0,184832.0,1.0,74.8
+Film 0410,Action,Réalisateur_16,France,Français,Majorstudio,2023,121.0,37.2,26.6,1812.0,55.0,180306.0,0.0,140.0
+Film 0411,Comédie,Réalisateur_23,Inde,Anglais,Majorstudio,2011,115.0,6.6,2.3,564.0,62.0,,0.0,33.2
+Film 0412,Comédie,Réalisateur_23,Canada,Coréen,Sakura Films,2017,102.0,57.7,29.8,5000.0,58.0,187139.0,0.0,176.2
+Film 0413,Drame,Réalisateur_08,Royaume-Uni,Anglais,Nordlight,2006,113.0,11.0,5.8,1390.0,31.0,64266.0,0.0,25.2
+Film 0414,Comédie,Réalisateur_10,USA,Français,Nordlight,2020,107.0,46.2,36.0,2739.0,79.0,4069.0,,92.0
+Film 0415,Action,Réalisateur_13,USA,Anglais,Sakura Films,1992,,24.3,16.5,2216.0,61.0,61250.0,0.0,80.7
+Film 0416,Animation,Réalisateur_09,Canada,Japonais,Sakura Films,1993,107.0,6.2,4.0,504.0,55.0,378351.0,1.0,46.9
+Film 0417,Romance,Réalisateur_37,Japon,Anglais,Majorstudio,2007,116.0,17.9,11.7,2239.0,,13644.0,0.0,76.5
+Film 0418,Action,Réalisateur_16,Corée du Sud,Japonais,Majorstudio,2015,98.0,35.4,,1827.0,67.0,132221.0,0.0,127.9
+Film 0419,Drame,Réalisateur_17,Japon,Anglais,Atlas Pictures,2018,97.0,45.3,20.8,3857.0,49.0,654917.0,0.0,125.7
+Film 0420,Horreur,Réalisateur_27,USA,Français,Lumière,2005,88.0,,4.9,1945.0,28.0,,1.0,74.6
+Film 0421,Romance,Réalisateur_32,France,Anglais,Lumière,2012,119.0,113.5,,3984.0,68.0,116785.0,0.0,400.5
+Film 0422,Animation,Réalisateur_28,Inde,Japonais,Lumière,2009,122.0,67.2,33.8,1986.0,70.0,24773.0,,321.1
+Film 0423,Thriller,Réalisateur_23,Allemagne,Anglais,Nordlight,2023,116.0,19.0,9.6,2310.0,59.0,758316.0,0.0,124.7
+Film 0424,Horreur,Réalisateur_40,USA,Anglais,Atlas Pictures,2012,129.0,51.9,19.3,2170.0,45.0,,0.0,181.2
+Film 0425,Science-Fiction,Réalisateur_36,Royaume-Uni,Japonais,Lumière,2004,114.0,169.7,58.8,3603.0,63.0,117968.0,1.0,500.4
+Film 0426,Comédie,Réalisateur_09,USA,Anglais,Lumière,2023,119.0,174.2,106.5,5000.0,40.0,451260.0,1.0,482.6
+Film 0427,Thriller,Réalisateur_07,Canada,Anglais,Majorstudio,1993,117.0,7.2,2.6,834.0,47.0,211782.0,0.0,16.0
+Film 0428,Thriller,Réalisateur_16,USA,Coréen,Majorstudio,2024,110.0,9.7,2.4,1043.0,51.0,34864.0,0.0,37.5
+Film 0429,Action,Réalisateur_34,Corée du Sud,Coréen,Nordlight,1995,102.0,108.3,79.8,3726.0,75.0,56750.0,0.0,419.1
+Film 0430,Animation,Réalisateur_39,USA,Hindi,Sakura Films,2000,152.0,8.5,3.9,1472.0,57.0,191296.0,0.0,78.4
+Film 0431,Action,Réalisateur_29,Royaume-Uni,Anglais,Lumière,2018,104.0,6.5,3.0,735.0,,49013.0,0.0,21.2
+Film 0432,Animation,Réalisateur_28,Japon,Français,Indiepics,2015,100.0,15.1,7.6,1086.0,91.0,10970.0,5.0,145.8
+Film 0433,Thriller,Réalisateur_10,USA,Coréen,Atlas Pictures,2023,,37.3,28.7,2129.0,67.0,108349.0,1.0,178.0
+Film 0434,Comédie,Réalisateur_24,Inde,Anglais,Lumière,2016,117.0,22.1,9.4,1351.0,67.0,19550.0,0.0,104.0
+Film 0435,Science-Fiction,Réalisateur_08,Allemagne,Japonais,Lumière,2012,87.0,12.8,9.4,1132.0,56.0,727819.0,0.0,82.9
+Film 0436,Action,Réalisateur_22,Inde,Anglais,Indiepics,2002,132.0,12.5,10.7,796.0,,125706.0,,88.7
+Film 0437,Horreur,Réalisateur_08,USA,Hindi,Indiepics,1990,110.0,12.0,8.0,877.0,29.0,26320.0,2.0,57.5
+Film 0438,Romance,Réalisateur_04,Corée du Sud,Français,Indiepics,1994,92.0,10.2,,1108.0,77.0,54212.0,4.0,80.8
+Film 0439,Action,Réalisateur_39,Royaume-Uni,Anglais,Atlas Pictures,2000,133.0,240.2,,5000.0,69.0,12169.0,0.0,674.5
+Film 0440,Science-Fiction,Réalisateur_36,Royaume-Uni,Anglais,Atlas Pictures,1991,123.0,33.0,17.2,1362.0,59.0,28762.0,,131.4
+Film 0441,Romance,Réalisateur_28,France,Anglais,Nordlight,2007,89.0,59.5,29.2,2482.0,60.0,367654.0,,276.3
+Film 0442,Drame,Réalisateur_26,Royaume-Uni,Anglais,Majorstudio,2017,144.0,15.0,8.5,2145.0,73.0,1767643.0,0.0,69.7
+Film 0443,Comédie,Réalisateur_10,USA,Japonais,Sakura Films,2023,124.0,20.4,,,39.0,210059.0,1.0,37.4
+Film 0444,Science-Fiction,Réalisateur_23,France,Français,Atlas Pictures,2007,112.0,12.0,3.3,1571.0,53.0,91045.0,1.0,93.8
+Film 0445,Horreur,Réalisateur_30,USA,Français,Nordlight,2020,141.0,1.7,0.8,305.0,45.0,,2.0,0.2
+Film 0446,Animation,Réalisateur_22,USA,Anglais,Indiepics,2024,115.0,6.2,1.8,,89.0,43543.0,1.0,90.5
+Film 0447,Drame,Réalisateur_12,USA,Japonais,Sakura Films,2020,111.0,4.0,1.9,490.0,75.0,1461337.0,1.0,56.4
+Film 0448,Romance,Réalisateur_16,USA,Anglais,Sakura Films,2006,100.0,2.6,1.5,335.0,29.0,,,2.3
+Film 0449,Horreur,Réalisateur_34,Inde,Anglais,Sakura Films,2001,122.0,7.4,6.3,877.0,,1112613.0,1.0,58.6
+Film 0450,Drame,Réalisateur_11,Royaume-Uni,Allemand,Lumière,2024,121.0,92.3,20.8,4875.0,60.0,578118.0,1.0,249.2
+Film 0451,Romance,Réalisateur_39,USA,Français,Indiepics,1998,112.0,23.5,14.9,1715.0,55.0,12834.0,0.0,33.0
+Film 0452,Romance,Réalisateur_31,Inde,Français,Sakura Films,2004,98.0,89.2,46.4,4932.0,42.0,,0.0,162.1
+Film 0453,Science-Fiction,Réalisateur_36,Allemagne,Allemand,Lumière,1992,114.0,37.0,7.9,2085.0,91.0,62364.0,4.0,234.6
+Film 0454,Action,Réalisateur_21,Allemagne,Anglais,Indiepics,2017,111.0,,20.1,2769.0,67.0,,2.0,212.1
+Film 0455,Horreur,Réalisateur_09,Inde,Allemand,Indiepics,2012,88.0,,2.8,1541.0,69.0,109270.0,1.0,57.2
+Film 0456,Horreur,Réalisateur_02,Canada,Japonais,Majorstudio,1992,86.0,41.4,14.6,3861.0,52.0,3668486.0,0.0,148.3
+Film 0457,Comédie,Réalisateur_22,Royaume-Uni,Français,Nordlight,1997,122.0,50.8,19.9,2603.0,73.0,33334.0,0.0,171.5
+Film 0458,Animation,Réalisateur_16,Canada,Anglais,Majorstudio,2009,70.0,13.8,6.6,1553.0,56.0,,,96.1
+Film 0459,Thriller,Réalisateur_05,Canada,Anglais,Atlas Pictures,2008,116.0,42.9,24.5,2227.0,58.0,,0.0,192.2
+Film 0460,Action,Réalisateur_38,USA,Anglais,Majorstudio,2018,103.0,43.2,8.7,1590.0,71.0,119221.0,1.0,196.8
+Film 0461,Animation,Réalisateur_39,Allemagne,Anglais,Atlas Pictures,1999,136.0,14.2,4.4,1825.0,38.0,99149.0,0.0,95.8
+Film 0462,Comédie,Réalisateur_15,Inde,Anglais,Sakura Films,2022,103.0,8.0,,701.0,86.0,38319.0,3.0,27.9
+Film 0463,Animation,Réalisateur_27,Corée du Sud,Français,Lumière,2005,124.0,7.5,4.4,930.0,65.0,128997.0,1.0,99.0
+Film 0464,Science-Fiction,Réalisateur_17,Allemagne,Japonais,Nordlight,2018,105.0,26.7,11.5,2125.0,81.0,238877.0,0.0,183.7
+Film 0465,Action,Réalisateur_20,France,Anglais,Nordlight,1998,114.0,34.0,19.9,1704.0,46.0,,0.0,160.6
+Film 0466,Romance,Réalisateur_25,France,Japonais,Indiepics,1991,125.0,11.1,3.9,756.0,48.0,191767.0,0.0,48.0
+Film 0467,Comédie,Réalisateur_17,Japon,Allemand,Sakura Films,1991,104.0,25.2,5.5,1763.0,45.0,510853.0,1.0,67.1
+Film 0468,Horreur,Réalisateur_33,Corée du Sud,Japonais,Indiepics,2003,130.0,43.4,,4185.0,66.0,352491.0,0.0,301.6
+Film 0469,Comédie,Réalisateur_08,Allemagne,Coréen,Majorstudio,2023,94.0,45.5,12.5,3306.0,63.0,121512.0,,192.9
+Film 0470,Romance,Réalisateur_27,Allemagne,Japonais,Lumière,1991,117.0,115.8,,4576.0,55.0,25404.0,0.0,313.8
+Film 0471,Animation,Réalisateur_40,Corée du Sud,Anglais,Atlas Pictures,2002,129.0,88.0,26.6,2373.0,47.0,46608.0,0.0,276.3
+Film 0472,Thriller,Réalisateur_35,Canada,Anglais,Majorstudio,1993,124.0,9.0,8.0,1234.0,43.0,,2.0,12.1
+Film 0473,Science-Fiction,Réalisateur_02,USA,Allemand,Sakura Films,2022,146.0,132.1,83.5,3328.0,61.0,148327.0,0.0,782.2
+Film 0474,Science-Fiction,Réalisateur_05,Canada,Japonais,Indiepics,2013,98.0,14.4,9.0,1550.0,55.0,58384.0,0.0,105.5
+Film 0475,Animation,Réalisateur_26,USA,Coréen,Indiepics,2016,87.0,69.7,62.1,4793.0,52.0,32759.0,0.0,340.5
+Film 0476,Thriller,Réalisateur_37,Royaume-Uni,Allemand,Nordlight,2014,,26.3,6.9,1970.0,85.0,32025.0,4.0,171.2
+Film 0477,Thriller,Réalisateur_34,USA,Anglais,Atlas Pictures,2012,124.0,16.2,,1275.0,61.0,15108.0,1.0,64.1
+Film 0478,Action,Réalisateur_37,Royaume-Uni,Anglais,Majorstudio,2017,121.0,4.0,1.4,377.0,81.0,97547.0,2.0,55.7
+Film 0479,Animation,Réalisateur_06,France,Français,Nordlight,1990,114.0,20.7,13.2,970.0,54.0,17599.0,0.0,118.2
+Film 0480,Action,Réalisateur_21,USA,Anglais,Lumière,2020,92.0,5.2,2.6,750.0,66.0,34468.0,1.0,19.0
+Film 0481,Drame,Réalisateur_30,Japon,Français,Nordlight,2015,126.0,64.5,,5000.0,61.0,68301.0,1.0,169.9
+Film 0482,Thriller,Réalisateur_25,Corée du Sud,Coréen,Majorstudio,2015,90.0,111.8,,3783.0,37.0,17286.0,1.0,494.1
+Film 0483,Drame,Réalisateur_32,USA,Français,Nordlight,2003,133.0,11.1,3.4,1366.0,83.0,207084.0,3.0,68.2
+Film 0484,Thriller,Réalisateur_09,Japon,Anglais,Atlas Pictures,2018,163.0,33.2,29.8,2906.0,60.0,,1.0,205.9
+Film 0485,Science-Fiction,Réalisateur_19,USA,Japonais,Lumière,2003,119.0,11.9,5.5,743.0,73.0,,,136.7
+Film 0486,Comédie,Réalisateur_18,USA,Anglais,Sakura Films,1991,122.0,,8.6,917.0,51.0,59013.0,0.0,45.6
+Film 0487,Drame,Réalisateur_38,USA,Hindi,Majorstudio,2021,103.0,53.2,46.7,2707.0,60.0,206949.0,0.0,49.6
+Film 0488,Horreur,Réalisateur_09,Royaume-Uni,Anglais,Atlas Pictures,1998,79.0,23.6,5.7,2339.0,49.0,41488.0,,61.0
+Film 0489,Thriller,Réalisateur_14,Corée du Sud,Hindi,Atlas Pictures,1993,101.0,139.7,118.2,5000.0,81.0,,6.0,629.2
+Film 0490,Horreur,Réalisateur_01,Royaume-Uni,Anglais,Sakura Films,2011,92.0,15.1,9.0,1888.0,67.0,485436.0,0.0,46.4
+Film 0491,Romance,Réalisateur_07,Inde,Anglais,Lumière,1998,86.0,66.6,46.2,5000.0,68.0,336563.0,0.0,198.1
+Film 0492,Thriller,Réalisateur_40,Royaume-Uni,Français,Atlas Pictures,2020,,27.0,8.2,2727.0,82.0,268201.0,7.0,164.3
+Film 0493,Thriller,Réalisateur_34,Inde,Anglais,Indiepics,2005,117.0,54.4,31.2,4924.0,79.0,386704.0,3.0,375.0
+Film 0494,Horreur,Réalisateur_11,Canada,Anglais,Nordlight,1990,119.0,15.7,10.5,1964.0,,11319.0,0.0,71.8
+Film 0495,Drame,Réalisateur_29,France,Hindi,Sakura Films,2023,106.0,23.3,12.1,2683.0,41.0,456020.0,2.0,64.2
+Film 0496,Science-Fiction,Réalisateur_24,USA,Coréen,Nordlight,2008,109.0,21.9,6.8,,52.0,161180.0,0.0,169.7
+Film 0497,Action,Réalisateur_37,USA,Anglais,Sakura Films,1999,129.0,10.6,3.9,1522.0,47.0,322055.0,1.0,100.4
+Film 0498,Drame,Réalisateur_13,Royaume-Uni,Japonais,Atlas Pictures,2013,111.0,47.6,38.0,3965.0,73.0,193225.0,2.0,151.9
+Film 0499,Romance,Réalisateur_40,Royaume-Uni,Hindi,Majorstudio,2008,122.0,47.0,10.5,4336.0,65.0,120388.0,,199.2
+Film 0500,Science-Fiction,Réalisateur_15,USA,Coréen,Sakura Films,1991,108.0,44.4,30.9,,,64558.0,0.0,213.2
+Film 0501,Action,Réalisateur_29,Allemagne,Anglais,Majorstudio,2016,106.0,114.1,102.6,5000.0,59.0,167167.0,0.0,598.8
+Film 0502,Animation,Réalisateur_16,Canada,Anglais,Sakura Films,2004,87.0,104.5,21.4,4955.0,40.0,61117.0,0.0,500.7
+Film 0503,Romance,Réalisateur_27,USA,Allemand,Nordlight,2014,76.0,16.9,5.3,,61.0,310460.0,0.0,56.6
+Film 0504,Thriller,Réalisateur_14,USA,Anglais,Indiepics,2021,107.0,35.6,23.9,2383.0,37.0,12797.0,0.0,171.7
+Film 0505,Drame,Réalisateur_34,USA,Anglais,Lumière,2011,113.0,13.1,3.2,1853.0,70.0,61848.0,0.0,58.7
+Film 0506,Science-Fiction,Réalisateur_26,France,Coréen,Indiepics,2013,89.0,25.1,15.4,2696.0,68.0,1354987.0,0.0,270.8
+Film 0507,Horreur,Réalisateur_12,Inde,Anglais,Majorstudio,1998,111.0,13.5,9.2,2090.0,91.0,65663.0,3.0,126.4
+Film 0508,Comédie,Réalisateur_39,Royaume-Uni,Hindi,Nordlight,1998,113.0,124.0,,4051.0,75.0,92663.0,0.0,403.7
+Film 0509,Drame,Réalisateur_29,USA,Anglais,Atlas Pictures,2004,73.0,35.3,16.1,3079.0,56.0,36285.0,0.0,76.7
+Film 0510,Comédie,Réalisateur_18,France,Japonais,Majorstudio,2019,96.0,19.7,13.6,2255.0,74.0,183162.0,1.0,75.5
+Film 0511,Romance,Réalisateur_06,USA,Allemand,Nordlight,2008,,80.9,49.8,5000.0,41.0,37130.0,0.0,320.2
+Film 0512,Animation,Réalisateur_39,France,Allemand,Nordlight,2002,,2.8,,783.0,48.0,,0.0,57.4
+Film 0513,Thriller,Réalisateur_31,France,Allemand,Lumière,2017,91.0,3.3,2.0,659.0,67.0,319862.0,1.0,15.9
+Film 0514,Thriller,Réalisateur_27,Japon,Hindi,Majorstudio,2019,115.0,54.4,44.5,3561.0,30.0,34144.0,0.0,232.8
+Film 0515,Romance,Réalisateur_34,Royaume-Uni,Anglais,Majorstudio,2021,130.0,26.1,17.4,1417.0,61.0,282291.0,1.0,21.0
+Film 0516,Action,Réalisateur_25,Allemagne,Allemand,Sakura Films,2000,126.0,31.5,16.7,3507.0,47.0,256842.0,0.0,175.4
+Film 0517,Romance,Réalisateur_10,USA,Allemand,Indiepics,2014,110.0,6.5,2.8,696.0,64.0,399103.0,1.0,57.0
+Film 0518,Action,Réalisateur_10,Corée du Sud,Français,Atlas Pictures,2010,104.0,24.0,,2473.0,46.0,112176.0,0.0,143.1
+Film 0519,Science-Fiction,Réalisateur_04,USA,Anglais,Indiepics,2005,101.0,,67.5,5000.0,68.0,5694580.0,0.0,1014.1
+Film 0520,Horreur,Réalisateur_03,USA,Anglais,Sakura Films,2003,120.0,55.9,11.6,3157.0,62.0,391903.0,0.0,42.2
+Film 0521,Drame,Réalisateur_30,Allemagne,Français,Majorstudio,1994,116.0,29.1,25.9,1612.0,83.0,193887.0,4.0,90.5
+Film 0522,Comédie,Réalisateur_35,Japon,Japonais,Atlas Pictures,1999,123.0,15.8,5.6,1083.0,62.0,38647.0,,69.7
+Film 0523,Comédie,Réalisateur_07,USA,Anglais,Sakura Films,2009,114.0,16.5,12.7,2188.0,50.0,,1.0,104.6
+Film 0524,Thriller,Réalisateur_23,France,Anglais,Majorstudio,2021,127.0,2.9,0.9,574.0,58.0,590399.0,1.0,47.8
+Film 0525,Drame,Réalisateur_05,Corée du Sud,Français,Indiepics,2020,114.0,31.7,12.6,1408.0,42.0,,0.0,71.2
+Film 0526,Drame,Réalisateur_17,Canada,Anglais,Majorstudio,1996,126.0,57.1,28.1,,68.0,686602.0,1.0,154.0
+Film 0527,Romance,Réalisateur_32,Japon,Allemand,Majorstudio,2013,128.0,5.1,,598.0,71.0,,,15.8
+Film 0528,Comédie,Réalisateur_33,USA,Anglais,Atlas Pictures,1992,98.0,12.7,9.6,1897.0,99.0,32597.0,0.0,79.4
+Film 0529,Romance,Réalisateur_38,France,Anglais,Nordlight,2013,79.0,7.7,6.7,827.0,53.0,182436.0,1.0,14.1
+Film 0530,Romance,Réalisateur_13,USA,Anglais,Atlas Pictures,2001,140.0,9.3,7.6,801.0,58.0,24035.0,0.0,3.9
+Film 0531,Horreur,Réalisateur_38,USA,Hindi,Indiepics,2005,117.0,25.9,8.0,1236.0,,17062.0,0.0,62.0
+Film 0532,Comédie,Réalisateur_32,Royaume-Uni,Hindi,Atlas Pictures,2015,81.0,3.1,2.3,598.0,,151260.0,0.0,40.8
+Film 0533,Comédie,Réalisateur_14,Corée du Sud,Anglais,Sakura Films,2004,99.0,45.3,13.8,2811.0,68.0,218241.0,0.0,135.3
+Film 0534,Drame,Réalisateur_14,USA,Anglais,Sakura Films,2018,126.0,52.1,43.7,4023.0,61.0,323972.0,0.0,165.8
+Film 0535,Horreur,Réalisateur_05,Inde,Anglais,Atlas Pictures,2008,107.0,19.1,,1699.0,78.0,229446.0,6.0,114.2
+Film 0536,Comédie,Réalisateur_37,Corée du Sud,Anglais,Atlas Pictures,2024,103.0,2.1,0.9,395.0,53.0,192425.0,0.0,0.2
+Film 0537,Science-Fiction,Réalisateur_09,Corée du Sud,Japonais,Atlas Pictures,2012,137.0,9.1,2.8,860.0,77.0,38462.0,6.0,144.6
+Film 0538,Action,Réalisateur_11,USA,Anglais,Atlas Pictures,2000,93.0,84.2,17.5,3337.0,70.0,104438.0,1.0,157.5
+Film 0539,Horreur,Réalisateur_17,France,Français,Nordlight,2017,98.0,1.5,0.6,,,18120.0,1.0,8.9
+Film 0540,Action,Réalisateur_06,USA,Anglais,Atlas Pictures,2004,116.0,17.3,14.5,1104.0,57.0,9544.0,0.0,107.3
+Film 0541,Animation,Réalisateur_33,USA,Anglais,Lumière,2008,119.0,7.5,5.7,1496.0,98.0,,3.0,174.0
+Film 0542,Action,Réalisateur_28,USA,Anglais,Atlas Pictures,1994,121.0,54.8,48.2,2741.0,50.0,39985.0,,230.5
+Film 0543,Comédie,Réalisateur_07,USA,Anglais,Sakura Films,1994,,12.5,3.4,803.0,66.0,,0.0,14.4
+Film 0544,Comédie,Réalisateur_07,USA,Anglais,Majorstudio,2010,116.0,36.7,22.6,1951.0,51.0,376988.0,1.0,105.8
+Film 0545,Thriller,Réalisateur_01,USA,Anglais,Nordlight,1996,121.0,43.2,16.4,1605.0,89.0,65259.0,2.0,133.9
+Film 0546,Action,Réalisateur_38,Allemagne,Anglais,Majorstudio,2024,107.0,153.9,,5000.0,75.0,250576.0,0.0,549.2
+Film 0547,Science-Fiction,Réalisateur_18,Inde,Allemand,Majorstudio,2019,113.0,20.0,8.5,1833.0,52.0,,0.0,167.2
+Film 0548,Horreur,Réalisateur_27,USA,Anglais,Nordlight,2014,114.0,35.7,14.2,2145.0,70.0,12930.0,1.0,96.1
+Film 0549,Horreur,Réalisateur_06,Canada,Anglais,Nordlight,2015,116.0,5.6,3.4,980.0,66.0,132772.0,1.0,57.8
+Film 0550,Animation,Réalisateur_10,USA,Anglais,Sakura Films,2010,126.0,80.7,,4727.0,54.0,58348.0,0.0,422.2
+Film 0551,Thriller,Réalisateur_22,France,Coréen,Lumière,1992,122.0,11.5,6.1,1870.0,73.0,71604.0,2.0,106.9
+Film 0552,Science-Fiction,Réalisateur_09,Inde,Allemand,Atlas Pictures,2003,,,9.2,2136.0,68.0,1246595.0,0.0,174.7
+Film 0553,Thriller,Réalisateur_25,France,Coréen,Nordlight,2007,97.0,24.0,7.0,2384.0,65.0,18192.0,0.0,128.4
+Film 0554,Drame,Réalisateur_37,USA,Français,Nordlight,2022,113.0,5.1,4.3,1051.0,61.0,173478.0,,23.9
+Film 0555,Romance,Réalisateur_13,France,Coréen,Atlas Pictures,1997,111.0,30.8,,3031.0,68.0,35304.0,2.0,133.3
+Film 0556,Horreur,Réalisateur_25,Royaume-Uni,Anglais,Indiepics,2007,115.0,,50.0,3626.0,65.0,337620.0,0.0,168.6
+Film 0557,Animation,Réalisateur_37,Japon,Hindi,Lumière,2002,152.0,32.9,21.6,,63.0,159586.0,0.0,67.5
+Film 0558,Romance,Réalisateur_36,France,Coréen,Atlas Pictures,1994,103.0,5.0,3.5,456.0,52.0,158739.0,0.0,24.5
+Film 0559,Thriller,Réalisateur_01,France,Anglais,Atlas Pictures,1993,120.0,21.7,15.2,2392.0,87.0,,5.0,162.3
+Film 0560,Thriller,Réalisateur_05,USA,Anglais,Indiepics,2002,131.0,51.5,41.8,4668.0,,37815.0,0.0,269.7
+Film 0561,Horreur,Réalisateur_40,Royaume-Uni,Anglais,Sakura Films,1992,114.0,3.8,2.4,391.0,68.0,354412.0,0.0,22.6
+Film 0562,Action,Réalisateur_38,USA,Anglais,Atlas Pictures,1992,154.0,8.4,3.3,1437.0,,884357.0,0.0,101.7
+Film 0563,Science-Fiction,Réalisateur_13,Allemagne,Hindi,Majorstudio,2002,105.0,58.9,,4959.0,88.0,242426.0,3.0,373.3
+Film 0564,Comédie,Réalisateur_21,Corée du Sud,Anglais,Indiepics,1997,,32.1,20.0,,48.0,32955.0,1.0,123.6
+Film 0565,Romance,Réalisateur_23,France,Japonais,Sakura Films,2009,98.0,37.0,9.1,2683.0,51.0,149743.0,0.0,121.9
+Film 0566,Comédie,Réalisateur_27,Corée du Sud,Allemand,Nordlight,1990,106.0,157.5,58.1,,47.0,1762964.0,,608.8
+Film 0567,Comédie,Réalisateur_31,USA,Anglais,Atlas Pictures,2000,116.0,39.2,9.5,3958.0,67.0,130602.0,1.0,143.8
+Film 0568,Comédie,Réalisateur_15,USA,Anglais,Nordlight,2005,127.0,47.4,27.7,1908.0,41.0,519124.0,1.0,132.8
+Film 0569,Animation,Réalisateur_36,France,Français,Lumière,2023,118.0,,115.2,5000.0,55.0,42633.0,0.0,881.1
+Film 0570,Horreur,Réalisateur_03,France,Coréen,Indiepics,2012,135.0,,12.4,2156.0,30.0,75083.0,0.0,135.8
+Film 0571,Romance,Réalisateur_02,Corée du Sud,Anglais,Nordlight,2020,110.0,11.0,8.3,912.0,66.0,240842.0,0.0,53.7
+Film 0572,Science-Fiction,Réalisateur_39,Canada,Anglais,Majorstudio,2002,106.0,37.6,,2181.0,54.0,165382.0,0.0,272.6
+Film 0573,Drame,Réalisateur_08,France,Français,Indiepics,2005,161.0,38.1,15.9,,40.0,35418.0,0.0,157.0
+Film 0574,Action,Réalisateur_40,France,Allemand,Indiepics,2004,119.0,14.5,8.5,975.0,78.0,47831.0,2.0,131.6
+Film 0575,Action,Réalisateur_12,Royaume-Uni,Anglais,Atlas Pictures,2021,99.0,8.7,5.2,1167.0,42.0,297319.0,0.0,26.6
+Film 0576,Drame,Réalisateur_15,USA,Anglais,Nordlight,2023,100.0,247.1,131.2,5000.0,74.0,511433.0,1.0,460.4
+Film 0577,Romance,Réalisateur_02,USA,Allemand,Indiepics,2023,95.0,34.0,22.4,2860.0,51.0,612021.0,1.0,80.8
+Film 0578,Horreur,Réalisateur_38,Canada,Anglais,Indiepics,2016,129.0,11.8,4.1,1686.0,86.0,,4.0,109.0
+Film 0579,Romance,Réalisateur_15,Inde,Anglais,Sakura Films,2007,105.0,61.3,54.3,3245.0,73.0,142708.0,0.0,184.3
+Film 0580,Action,Réalisateur_07,Canada,Français,Atlas Pictures,2008,114.0,22.0,5.9,1483.0,47.0,,1.0,102.8
+Film 0581,Action,Réalisateur_20,USA,Anglais,Lumière,2024,111.0,19.1,14.9,908.0,48.0,489425.0,0.0,60.4
+Film 0582,Thriller,Réalisateur_07,USA,Anglais,Majorstudio,1999,125.0,43.0,26.5,2025.0,71.0,,0.0,242.6
+Film 0583,Action,Réalisateur_32,France,Français,Lumière,2002,97.0,6.7,2.5,763.0,58.0,32794.0,0.0,45.1
+Film 0584,Action,Réalisateur_03,Canada,Japonais,Nordlight,2021,93.0,34.9,25.2,,59.0,31127.0,0.0,148.4
+Film 0585,Science-Fiction,Réalisateur_20,USA,Français,Atlas Pictures,2003,116.0,166.2,43.1,3354.0,81.0,233361.0,1.0,844.6
+Film 0586,Romance,Réalisateur_16,USA,Anglais,Majorstudio,1998,123.0,39.1,29.0,1779.0,51.0,80597.0,0.0,129.6
+Film 0587,Animation,Réalisateur_02,USA,Français,Sakura Films,2009,118.0,16.8,,,63.0,108066.0,0.0,149.8
+Film 0588,Action,Réalisateur_03,Corée du Sud,Français,Lumière,2001,97.0,14.8,4.1,,76.0,450517.0,2.0,145.0
+Film 0589,Thriller,Réalisateur_21,Inde,Coréen,Majorstudio,2021,124.0,16.3,4.2,2299.0,74.0,304357.0,0.0,99.7
+Film 0590,Thriller,Réalisateur_16,Japon,Coréen,Atlas Pictures,2021,99.0,19.0,13.8,2279.0,60.0,535608.0,2.0,122.6
+Film 0591,Thriller,Réalisateur_06,USA,Japonais,Majorstudio,2000,103.0,16.8,6.8,1741.0,58.0,,0.0,99.3
+Film 0592,Romance,Réalisateur_06,Corée du Sud,Hindi,Lumière,2008,95.0,61.3,50.4,2260.0,36.0,115065.0,2.0,183.8
+Film 0593,Comédie,Réalisateur_33,France,Hindi,Atlas Pictures,2024,135.0,4.3,,766.0,46.0,218121.0,0.0,13.1
+Film 0594,Romance,Réalisateur_30,USA,Anglais,Lumière,2015,123.0,58.1,40.0,1928.0,67.0,18492.0,0.0,226.5
+Film 0595,Drame,Réalisateur_25,USA,Allemand,Lumière,1997,123.0,16.8,6.6,1518.0,60.0,49486.0,0.0,40.3
+Film 0596,Thriller,Réalisateur_34,Royaume-Uni,Hindi,Indiepics,2010,134.0,35.8,24.9,2285.0,63.0,40686.0,1.0,175.0
+Film 0597,Horreur,Réalisateur_03,USA,Anglais,Nordlight,2011,163.0,7.9,6.8,962.0,78.0,129689.0,5.0,87.4
+Film 0598,Thriller,Réalisateur_28,Canada,Anglais,Atlas Pictures,2012,81.0,92.6,24.5,3541.0,,654449.0,0.0,236.7
+Film 0599,Animation,Réalisateur_31,France,Français,Indiepics,1990,99.0,85.3,36.5,5000.0,58.0,1207507.0,0.0,355.0
+Film 0600,Animation,Réalisateur_09,France,Anglais,Indiepics,2000,101.0,64.0,23.3,4878.0,65.0,42728.0,0.0,330.0
+Film 0601,Horreur,Réalisateur_22,Japon,Japonais,Majorstudio,2019,97.0,5.4,,1047.0,51.0,187553.0,1.0,23.9
+Film 0602,Thriller,Réalisateur_31,Japon,Français,Lumière,1998,93.0,56.2,40.4,3795.0,83.0,256719.0,3.0,159.7
+Film 0603,Animation,Réalisateur_25,USA,Anglais,Indiepics,2000,107.0,36.8,19.6,2710.0,76.0,198048.0,4.0,218.8
+Film 0604,Comédie,Réalisateur_10,Royaume-Uni,Anglais,Nordlight,2001,90.0,4.9,2.9,413.0,66.0,184831.0,0.0,28.0
+Film 0605,Thriller,Réalisateur_27,USA,Hindi,Nordlight,1996,118.0,23.9,10.0,2464.0,89.0,197559.0,5.0,204.7
+Film 0606,Horreur,Réalisateur_31,France,Anglais,Nordlight,1995,113.0,35.3,10.6,,40.0,673150.0,0.0,162.6
+Film 0607,Drame,Réalisateur_01,Corée du Sud,Japonais,Atlas Pictures,2002,121.0,,16.6,2202.0,62.0,,1.0,26.1
+Film 0608,Horreur,Réalisateur_23,Royaume-Uni,Anglais,Lumière,2020,121.0,29.3,23.5,1884.0,67.0,32365.0,0.0,149.0
+Film 0609,Romance,Réalisateur_21,France,Anglais,Sakura Films,1990,123.0,32.8,20.4,3497.0,48.0,251365.0,0.0,99.0
+Film 0610,Thriller,Réalisateur_15,USA,Français,Lumière,1999,105.0,,49.8,5000.0,67.0,337005.0,1.0,414.6
+Film 0611,Thriller,Réalisateur_02,Royaume-Uni,Anglais,Majorstudio,1992,150.0,83.6,62.9,4167.0,45.0,136854.0,,296.5
+Film 0612,Science-Fiction,Réalisateur_04,USA,Japonais,Lumière,2009,116.0,1.4,0.3,412.0,72.0,468158.0,0.0,60.9
+Film 0613,Thriller,Réalisateur_31,Allemagne,Japonais,Majorstudio,1998,78.0,,6.8,1548.0,78.0,158348.0,4.0,94.3
+Film 0614,Science-Fiction,Réalisateur_34,Royaume-Uni,Anglais,Majorstudio,2017,94.0,20.8,7.5,1798.0,66.0,145653.0,1.0,134.9
+Film 0615,Animation,Réalisateur_17,Allemagne,Anglais,Majorstudio,2010,81.0,4.3,3.8,,34.0,95907.0,1.0,65.6
+Film 0616,Animation,Réalisateur_38,France,Japonais,Indiepics,2017,112.0,27.0,18.7,2037.0,47.0,8499.0,,170.4
+Film 0617,Comédie,Réalisateur_38,Inde,Japonais,Lumière,2012,110.0,85.5,54.1,,70.0,107564.0,0.0,379.3
+Film 0618,Drame,Réalisateur_27,USA,Français,Indiepics,2005,104.0,8.3,1.7,577.0,62.0,49584.0,0.0,43.2
+Film 0619,Action,Réalisateur_24,USA,Coréen,Atlas Pictures,2020,148.0,34.3,11.3,3240.0,22.0,,0.0,200.6
+Film 0620,Comédie,Réalisateur_39,USA,Anglais,Nordlight,2006,122.0,,6.3,924.0,81.0,722772.0,3.0,38.2
+Film 0621,Science-Fiction,Réalisateur_25,USA,Anglais,Majorstudio,2023,125.0,,5.8,1615.0,64.0,206092.0,0.0,139.1
+Film 0622,Science-Fiction,Réalisateur_38,Allemagne,Japonais,Nordlight,2024,95.0,107.5,91.1,5000.0,50.0,95245.0,1.0,546.1
+Film 0623,Comédie,Réalisateur_40,Corée du Sud,Japonais,Indiepics,2010,94.0,14.3,10.5,1706.0,77.0,63656.0,2.0,103.0
+Film 0624,Science-Fiction,Réalisateur_08,Japon,Coréen,Indiepics,2013,113.0,38.9,20.0,2990.0,,143660.0,0.0,191.6
+Film 0625,Horreur,Réalisateur_27,Royaume-Uni,Anglais,Sakura Films,1998,115.0,,2.8,975.0,52.0,,,19.6
+Film 0626,Comédie,Réalisateur_30,Royaume-Uni,Français,Atlas Pictures,2018,79.0,158.0,139.5,5000.0,67.0,42815.0,0.0,720.7
+Film 0627,Drame,Réalisateur_33,Japon,Japonais,Sakura Films,2013,109.0,44.8,23.4,3619.0,89.0,136422.0,5.0,115.4
+Film 0628,Drame,Réalisateur_14,Inde,Anglais,Indiepics,2021,112.0,20.4,13.3,,86.0,380471.0,3.0,122.5
+Film 0629,Horreur,Réalisateur_35,Royaume-Uni,Français,Atlas Pictures,1999,108.0,43.6,36.8,2127.0,67.0,11314.0,0.0,182.9
+Film 0630,Drame,Réalisateur_20,Corée du Sud,Français,Atlas Pictures,2017,97.0,,2.2,689.0,69.0,109630.0,,19.8
+Film 0631,Animation,Réalisateur_16,USA,Anglais,Indiepics,2006,102.0,80.0,,3843.0,74.0,73128.0,2.0,472.2
+Film 0632,Drame,Réalisateur_07,Canada,Anglais,Lumière,1996,109.0,17.7,4.7,1308.0,43.0,78185.0,0.0,21.4
+Film 0633,Science-Fiction,Réalisateur_13,USA,Anglais,Lumière,1995,114.0,20.0,13.1,1569.0,72.0,65966.0,0.0,147.5
+Film 0634,Science-Fiction,Réalisateur_39,France,Hindi,Sakura Films,2009,123.0,15.0,11.2,1357.0,51.0,117607.0,0.0,86.6
+Film 0635,Comédie,Réalisateur_29,Allemagne,Anglais,Indiepics,2001,131.0,13.7,8.6,1592.0,,1161655.0,0.0,78.9
+Film 0636,Animation,Réalisateur_30,USA,Anglais,Nordlight,1993,107.0,49.1,26.9,2234.0,59.0,72946.0,0.0,298.5
+Film 0637,Comédie,Réalisateur_36,USA,Anglais,Nordlight,2004,104.0,31.7,20.0,3113.0,70.0,168110.0,2.0,161.7
+Film 0638,Drame,Réalisateur_11,France,Anglais,Indiepics,2012,120.0,47.1,14.4,2837.0,64.0,1232708.0,1.0,77.1
+Film 0639,Thriller,Réalisateur_27,France,Anglais,Indiepics,2001,123.0,24.3,8.5,,16.0,33673.0,0.0,136.8
+Film 0640,Romance,Réalisateur_15,Canada,Français,Majorstudio,2023,104.0,41.0,15.9,1619.0,65.0,1001864.0,0.0,114.8
+Film 0641,Animation,Réalisateur_34,Inde,Anglais,Majorstudio,2017,126.0,16.1,10.0,1542.0,72.0,121205.0,,107.7
+Film 0642,Romance,Réalisateur_17,France,Anglais,Atlas Pictures,2007,130.0,228.1,116.2,4119.0,69.0,996724.0,0.0,621.8
+Film 0643,Thriller,Réalisateur_35,Canada,Anglais,Majorstudio,2022,135.0,5.1,1.9,938.0,60.0,267146.0,,22.7
+Film 0644,Science-Fiction,Réalisateur_30,Japon,Anglais,Nordlight,2005,144.0,86.6,70.8,3680.0,87.0,195505.0,1.0,390.3
+Film 0645,Thriller,Réalisateur_31,Allemagne,Anglais,Nordlight,1994,96.0,96.3,44.5,5000.0,67.0,106750.0,1.0,474.0
+Film 0646,Drame,Réalisateur_38,USA,Français,Majorstudio,1991,,10.5,5.4,1014.0,69.0,55554.0,0.0,34.7
+Film 0647,Science-Fiction,Réalisateur_32,France,Japonais,Atlas Pictures,2022,112.0,228.0,111.0,5000.0,78.0,138387.0,3.0,1038.2
+Film 0648,Horreur,Réalisateur_13,USA,Japonais,Lumière,2023,110.0,66.4,21.7,2817.0,67.0,339028.0,0.0,191.5
+Film 0649,Romance,Réalisateur_21,USA,Anglais,Sakura Films,2015,100.0,64.8,46.1,4105.0,49.0,96203.0,0.0,253.3
+Film 0650,Thriller,Réalisateur_19,Corée du Sud,Hindi,Atlas Pictures,1993,85.0,25.2,13.0,2011.0,25.0,50634.0,1.0,77.9
+Film 0651,Science-Fiction,Réalisateur_03,USA,Japonais,Indiepics,2000,114.0,19.7,4.2,1562.0,55.0,76715.0,0.0,69.1
+Film 0652,Animation,Réalisateur_24,Royaume-Uni,Anglais,Lumière,1991,98.0,19.9,17.4,1270.0,73.0,399507.0,,102.1
+Film 0653,Comédie,Réalisateur_18,Japon,Anglais,Atlas Pictures,1991,114.0,36.3,28.0,1583.0,,459481.0,0.0,168.6
+Film 0654,Thriller,Réalisateur_16,USA,Coréen,Nordlight,1998,98.0,99.6,70.4,2940.0,74.0,54969.0,0.0,398.8
+Film 0655,Horreur,Réalisateur_05,France,Anglais,Atlas Pictures,2010,92.0,29.4,23.8,3419.0,64.0,50449.0,0.0,141.2
+Film 0656,Horreur,Réalisateur_21,Japon,Anglais,Lumière,1992,116.0,9.9,8.3,1083.0,81.0,203874.0,2.0,110.9
+Film 0657,Thriller,Réalisateur_24,Allemagne,Français,Sakura Films,2024,115.0,55.9,24.4,1683.0,,666636.0,0.0,211.4
+Film 0658,Animation,Réalisateur_05,USA,Anglais,Indiepics,2005,122.0,61.6,38.7,5000.0,69.0,464697.0,0.0,379.1
+Film 0659,Action,Réalisateur_26,Canada,Allemand,Indiepics,1999,151.0,47.2,29.6,1576.0,70.0,26373.0,0.0,201.1
+Film 0660,Drame,Réalisateur_07,Inde,Anglais,Indiepics,2008,117.0,51.7,20.0,2940.0,85.0,97073.0,5.0,166.2
+Film 0661,Comédie,Réalisateur_06,Japon,Anglais,Indiepics,2017,121.0,18.7,6.6,2117.0,36.0,27791.0,0.0,56.5
+Film 0662,Animation,Réalisateur_17,France,Anglais,Lumière,2000,93.0,9.7,2.7,1659.0,55.0,75190.0,0.0,71.8
+Film 0663,Action,Réalisateur_16,Corée du Sud,Anglais,Indiepics,1991,89.0,,6.8,1474.0,75.0,,,102.7
+Film 0664,Comédie,Réalisateur_37,Inde,Hindi,Lumière,1991,140.0,4.8,3.6,741.0,,24173.0,1.0,9.5
+Film 0665,Horreur,Réalisateur_03,USA,Coréen,Indiepics,2019,95.0,31.1,22.8,3479.0,66.0,16412.0,0.0,139.0
+Film 0666,Animation,Réalisateur_14,Canada,Hindi,Nordlight,1993,93.0,22.6,9.5,1051.0,58.0,39446.0,0.0,83.6
+Film 0667,Horreur,Réalisateur_30,Allemagne,Français,Sakura Films,2012,111.0,15.8,5.4,2337.0,73.0,171405.0,1.0,139.6
+Film 0668,Thriller,Réalisateur_10,France,Anglais,Majorstudio,2003,110.0,1.3,0.7,474.0,75.0,259899.0,0.0,9.3
+Film 0669,Romance,Réalisateur_40,Corée du Sud,Anglais,Indiepics,2017,96.0,7.0,4.1,1378.0,57.0,178545.0,1.0,28.9
+Film 0670,Comédie,Réalisateur_30,Royaume-Uni,Anglais,Indiepics,1992,107.0,75.3,63.5,3027.0,67.0,473462.0,0.0,223.2
+Film 0671,Romance,Réalisateur_38,Corée du Sud,Hindi,Majorstudio,2021,,12.6,10.2,881.0,,15470.0,7.0,97.8
+Film 0672,Horreur,Réalisateur_38,Inde,Anglais,Atlas Pictures,2014,97.0,35.2,29.6,2956.0,90.0,575202.0,7.0,212.9
+Film 0673,Animation,Réalisateur_05,USA,Anglais,Sakura Films,2005,87.0,6.1,4.9,902.0,73.0,83491.0,0.0,110.6
+Film 0674,Action,Réalisateur_19,USA,Français,Lumière,1997,129.0,103.4,90.5,4963.0,63.0,268340.0,0.0,621.9
+Film 0675,Horreur,Réalisateur_30,USA,Coréen,Lumière,2024,121.0,21.2,11.1,2671.0,61.0,22387.0,1.0,93.7
+Film 0676,Animation,Réalisateur_01,Allemagne,Anglais,Nordlight,2000,101.0,32.8,7.6,2728.0,70.0,119166.0,0.0,213.2
+Film 0677,Horreur,Réalisateur_19,France,Japonais,Atlas Pictures,2007,84.0,251.1,64.9,5000.0,60.0,144182.0,0.0,593.8
+Film 0678,Action,Réalisateur_28,Allemagne,Japonais,Majorstudio,2003,99.0,111.8,52.9,4576.0,65.0,454368.0,0.0,591.9
+Film 0679,Horreur,Réalisateur_32,France,Hindi,Nordlight,1998,111.0,18.1,,1080.0,46.0,14142.0,,36.9
+Film 0680,Romance,Réalisateur_17,USA,Anglais,Sakura Films,2004,133.0,13.6,4.3,994.0,81.0,,4.0,54.2
+Film 0681,Animation,Réalisateur_35,Allemagne,Anglais,Nordlight,1995,93.0,17.7,,1082.0,45.0,25500.0,1.0,108.7
+Film 0682,Comédie,Réalisateur_27,Royaume-Uni,Anglais,Atlas Pictures,1990,110.0,40.8,13.7,3638.0,56.0,,1.0,195.3
+Film 0683,Romance,Réalisateur_02,France,Hindi,Lumière,2000,124.0,22.1,19.3,2316.0,63.0,283475.0,1.0,33.1
+Film 0684,Romance,Réalisateur_12,USA,Allemand,Nordlight,1993,70.0,,12.1,1662.0,,656883.0,1.0,121.8
+Film 0685,Comédie,Réalisateur_38,USA,Français,Indiepics,2004,131.0,106.4,69.0,4315.0,,55063.0,0.0,319.5
+Film 0686,Thriller,Réalisateur_01,USA,Anglais,Sakura Films,2020,91.0,21.9,14.7,2234.0,,306347.0,1.0,42.9
+Film 0687,Science-Fiction,Réalisateur_05,France,Anglais,Lumière,1995,118.0,244.6,105.7,5000.0,54.0,525604.0,0.0,339.1
+Film 0688,Horreur,Réalisateur_14,Royaume-Uni,Français,Lumière,1990,116.0,26.9,17.6,2987.0,87.0,18824.0,7.0,102.9
+Film 0689,Science-Fiction,Réalisateur_40,USA,Anglais,Atlas Pictures,1993,132.0,146.3,48.4,5000.0,20.0,144082.0,1.0,664.8
+Film 0690,Thriller,Réalisateur_29,USA,Français,Indiepics,2007,122.0,35.1,30.1,3348.0,47.0,302475.0,0.0,176.7
+Film 0691,Romance,Réalisateur_06,USA,Hindi,Indiepics,1999,70.0,64.3,26.4,3689.0,100.0,,4.0,243.4
+Film 0692,Thriller,Réalisateur_16,France,Anglais,Sakura Films,2007,98.0,11.9,4.5,1292.0,71.0,27937.0,1.0,54.3
+Film 0693,Romance,Réalisateur_38,Canada,Anglais,Nordlight,1991,114.0,10.4,7.3,1670.0,,290760.0,0.0,27.7
+Film 0694,Romance,Réalisateur_09,France,Anglais,Sakura Films,2001,108.0,,25.6,,61.0,25977.0,0.0,108.6
+Film 0695,Action,Réalisateur_24,USA,Anglais,Lumière,2004,121.0,65.9,34.0,3317.0,63.0,90057.0,0.0,324.1
+Film 0696,Drame,Réalisateur_19,Royaume-Uni,Japonais,Sakura Films,2005,126.0,25.5,16.4,1686.0,75.0,117594.0,0.0,89.5
+Film 0697,Animation,Réalisateur_31,Allemagne,Anglais,Nordlight,2009,123.0,6.8,,965.0,90.0,326152.0,3.0,100.1
+Film 0698,Horreur,Réalisateur_31,Inde,Anglais,Lumière,2017,108.0,6.3,4.2,946.0,,54916.0,0.0,64.4
+Film 0699,Action,Réalisateur_34,Inde,Anglais,Nordlight,2006,79.0,5.9,2.3,1010.0,54.0,45149.0,1.0,38.8
+Film 0700,Action,Réalisateur_05,Allemagne,Anglais,Sakura Films,2019,104.0,4.2,1.6,660.0,74.0,137835.0,0.0,35.6
+Film 0701,Horreur,Réalisateur_19,Japon,Japonais,Majorstudio,2008,119.0,27.4,8.6,1570.0,,336876.0,1.0,94.6
+Film 0702,Horreur,Réalisateur_28,Canada,Français,Sakura Films,1999,92.0,75.6,32.7,5000.0,46.0,1474925.0,0.0,371.4
+Film 0703,Comédie,Réalisateur_17,USA,Français,Nordlight,1998,123.0,24.2,10.5,1717.0,36.0,13908.0,1.0,83.6
+Film 0704,Comédie,Réalisateur_27,Inde,Français,Majorstudio,2001,128.0,2.6,1.3,757.0,39.0,128268.0,1.0,20.6
+Film 0705,Comédie,Réalisateur_26,Inde,Anglais,Indiepics,2010,114.0,20.3,6.8,,49.0,26532.0,2.0,102.9
+Film 0706,Horreur,Réalisateur_15,Allemagne,Français,Atlas Pictures,1998,70.0,20.8,7.0,1965.0,44.0,315117.0,1.0,144.7
+Film 0707,Action,Réalisateur_05,France,Anglais,Indiepics,2021,89.0,199.5,115.6,5000.0,67.0,37450.0,0.0,838.4
+Film 0708,Horreur,Réalisateur_39,Inde,Allemand,Majorstudio,2006,146.0,5.7,1.7,1133.0,,41297.0,0.0,55.0
+Film 0709,Science-Fiction,Réalisateur_34,USA,Anglais,Majorstudio,2020,102.0,16.6,11.3,1034.0,15.0,31637.0,0.0,133.6
+Film 0710,Science-Fiction,Réalisateur_36,Royaume-Uni,Anglais,Majorstudio,2013,76.0,135.1,116.3,5000.0,46.0,86486.0,0.0,644.9
+Film 0711,Animation,Réalisateur_12,France,Anglais,Nordlight,2001,134.0,38.5,,2766.0,55.0,152761.0,0.0,227.7
+Film 0712,Horreur,Réalisateur_13,Royaume-Uni,Coréen,Nordlight,1997,112.0,43.1,35.8,3117.0,53.0,181680.0,,123.9
+Film 0713,Animation,Réalisateur_13,Japon,Anglais,Sakura Films,2016,132.0,27.5,7.4,2214.0,85.0,,6.0,210.0
+Film 0714,Thriller,Réalisateur_02,USA,Allemand,Sakura Films,2001,117.0,34.1,7.8,1336.0,53.0,20613.0,1.0,90.2
+Film 0715,Romance,Réalisateur_07,USA,Anglais,Sakura Films,1998,120.0,,37.6,3254.0,75.0,,1.0,160.5
+Film 0716,Thriller,Réalisateur_13,USA,Coréen,Lumière,2022,119.0,10.9,8.0,960.0,62.0,103754.0,0.0,37.8
+Film 0717,Horreur,Réalisateur_40,Japon,Japonais,Indiepics,2006,125.0,59.0,46.6,,61.0,441725.0,0.0,224.1
+Film 0718,Science-Fiction,Réalisateur_09,Japon,Anglais,Atlas Pictures,1991,153.0,,1.5,1030.0,49.0,41800.0,1.0,46.5
+Film 0719,Comédie,Réalisateur_21,Corée du Sud,Anglais,Majorstudio,2007,129.0,34.1,25.4,2488.0,61.0,16021.0,1.0,136.0
+Film 0720,Horreur,Réalisateur_22,USA,Anglais,Lumière,2006,84.0,29.3,13.6,1350.0,51.0,95714.0,0.0,43.4
+Film 0721,Comédie,Réalisateur_15,Inde,Coréen,Nordlight,2020,120.0,13.2,,808.0,65.0,537619.0,0.0,40.6
+Film 0722,Romance,Réalisateur_37,Japon,Hindi,Nordlight,2014,133.0,,7.7,1385.0,58.0,129326.0,0.0,35.2
+Film 0723,Thriller,Réalisateur_04,USA,Anglais,Majorstudio,1996,134.0,,11.8,975.0,48.0,76130.0,1.0,69.7
+Film 0724,Action,Réalisateur_35,USA,Anglais,Sakura Films,1995,104.0,8.4,2.1,1192.0,77.0,,4.0,110.5
+Film 0725,Thriller,Réalisateur_30,France,Anglais,Nordlight,2011,133.0,17.2,13.4,1121.0,68.0,960140.0,,112.6
+Film 0726,Action,Réalisateur_13,France,Anglais,Lumière,1991,129.0,8.1,5.2,1454.0,55.0,30130.0,0.0,45.4
+Film 0727,Animation,Réalisateur_31,USA,Français,Indiepics,2001,158.0,33.9,,1763.0,64.0,47125.0,2.0,207.4
+Film 0728,Action,Réalisateur_18,USA,Anglais,Nordlight,1994,98.0,7.8,5.4,608.0,61.0,217162.0,0.0,30.6
+Film 0729,Science-Fiction,Réalisateur_39,USA,Anglais,Lumière,1990,103.0,50.0,,4316.0,49.0,10538.0,0.0,244.6
+Film 0730,Animation,Réalisateur_02,USA,Hindi,Atlas Pictures,2022,106.0,7.5,2.5,799.0,63.0,514899.0,0.0,81.2
+Film 0731,Animation,Réalisateur_02,USA,Japonais,Atlas Pictures,1993,103.0,13.9,2.8,1347.0,53.0,215042.0,0.0,104.9
+Film 0732,Science-Fiction,Réalisateur_22,Inde,Coréen,Sakura Films,1990,96.0,13.1,8.1,2049.0,48.0,284610.0,0.0,127.6
+Film 0733,Romance,Réalisateur_38,Royaume-Uni,Anglais,Lumière,2022,70.0,92.3,41.3,5000.0,38.0,169720.0,0.0,200.6
+Film 0734,Thriller,Réalisateur_03,France,Hindi,Indiepics,1996,104.0,,9.8,3029.0,57.0,87056.0,1.0,184.8
+Film 0735,Comédie,Réalisateur_32,Japon,Français,Atlas Pictures,2018,119.0,19.9,6.6,1027.0,71.0,33351.0,0.0,58.2
+Film 0736,Animation,Réalisateur_38,Royaume-Uni,Français,Sakura Films,1991,103.0,40.4,17.5,3018.0,52.0,85111.0,0.0,255.4
+Film 0737,Animation,Réalisateur_20,USA,Anglais,Nordlight,1995,147.0,3.0,0.7,864.0,100.0,45944.0,1.0,67.2
+Film 0738,Drame,Réalisateur_35,USA,Hindi,Indiepics,1993,112.0,23.5,5.6,2885.0,75.0,221135.0,0.0,74.4
+Film 0739,Animation,Réalisateur_31,USA,Français,Sakura Films,2014,,,152.1,4111.0,82.0,343097.0,4.0,407.1
+Film 0740,Romance,Réalisateur_09,Royaume-Uni,Coréen,Majorstudio,2011,117.0,28.0,11.7,1985.0,74.0,720198.0,0.0,98.6
+Film 0741,Thriller,Réalisateur_35,France,Japonais,Atlas Pictures,2006,,26.3,23.3,1740.0,90.0,215905.0,1.0,159.5
+Film 0742,Thriller,Réalisateur_28,France,Coréen,Indiepics,1998,117.0,42.4,37.1,1789.0,50.0,299386.0,2.0,154.7
+Film 0743,Animation,Réalisateur_01,Royaume-Uni,Japonais,Nordlight,1993,137.0,60.1,18.0,4185.0,24.0,51140.0,0.0,414.8
+Film 0744,Drame,Réalisateur_23,Canada,Allemand,Indiepics,2009,113.0,3.3,2.3,475.0,55.0,58388.0,0.0,6.0
+Film 0745,Thriller,Réalisateur_27,USA,Anglais,Nordlight,1998,121.0,4.6,2.9,633.0,70.0,209133.0,0.0,32.0
+Film 0746,Drame,Réalisateur_33,Royaume-Uni,Anglais,Nordlight,2010,119.0,30.3,20.7,1371.0,64.0,70775.0,1.0,61.0
+Film 0747,Horreur,Réalisateur_31,France,Japonais,Indiepics,2014,107.0,12.0,3.2,1330.0,66.0,158173.0,0.0,55.1
+Film 0748,Drame,Réalisateur_20,Corée du Sud,Français,Lumière,2019,119.0,91.1,30.2,2959.0,82.0,,2.0,246.4
+Film 0749,Drame,Réalisateur_12,Corée du Sud,Français,Atlas Pictures,2007,152.0,17.9,4.5,1579.0,68.0,40439.0,1.0,83.6
+Film 0750,Comédie,Réalisateur_08,Corée du Sud,Japonais,Nordlight,1990,107.0,3.5,2.2,409.0,74.0,262394.0,,18.5
+Film 0751,Romance,Réalisateur_04,USA,Français,Majorstudio,1999,120.0,6.9,6.1,1390.0,48.0,280359.0,0.0,31.4
+Film 0752,Comédie,Réalisateur_26,France,Coréen,Lumière,2019,135.0,1.6,1.1,257.0,46.0,29039.0,0.0,0.2
+Film 0753,Action,Réalisateur_39,Inde,Anglais,Atlas Pictures,2008,133.0,19.4,13.5,1816.0,86.0,300205.0,0.0,227.7
+Film 0754,Romance,Réalisateur_04,France,Hindi,Sakura Films,2011,112.0,20.3,18.1,1273.0,64.0,59382.0,0.0,105.6
+Film 0755,Horreur,Réalisateur_29,Canada,Anglais,Sakura Films,2006,70.0,16.0,10.8,913.0,,103711.0,0.0,60.4
+Film 0756,Science-Fiction,Réalisateur_24,France,Français,Majorstudio,1995,121.0,72.2,16.5,2746.0,53.0,556761.0,0.0,222.8
+Film 0757,Animation,Réalisateur_07,France,Hindi,Nordlight,2021,72.0,81.3,65.6,2330.0,52.0,265345.0,1.0,268.2
+Film 0758,Science-Fiction,Réalisateur_09,France,Anglais,Indiepics,2017,138.0,20.7,9.4,1182.0,51.0,259107.0,1.0,121.0
+Film 0759,Comédie,Réalisateur_12,France,Anglais,Sakura Films,2024,115.0,2.9,0.6,565.0,43.0,,1.0,39.3
+Film 0760,Animation,Réalisateur_28,Inde,Anglais,Lumière,2019,130.0,45.5,25.3,3414.0,,37753.0,0.0,125.8
+Film 0761,Comédie,Réalisateur_12,USA,Français,Sakura Films,2000,96.0,42.7,36.5,1676.0,59.0,,0.0,123.6
+Film 0762,Horreur,Réalisateur_34,Royaume-Uni,Anglais,Sakura Films,1998,84.0,33.4,12.7,2317.0,53.0,42745.0,0.0,168.9
+Film 0763,Romance,Réalisateur_15,Royaume-Uni,Anglais,Atlas Pictures,1998,117.0,65.5,35.6,3988.0,79.0,93830.0,4.0,202.3
+Film 0764,Romance,Réalisateur_05,Inde,Hindi,Lumière,2022,111.0,7.7,2.5,750.0,66.0,6788.0,2.0,57.8
+Film 0765,Drame,Réalisateur_04,Royaume-Uni,Anglais,Majorstudio,2009,103.0,182.9,44.0,5000.0,66.0,89278.0,,394.4
+Film 0766,Thriller,Réalisateur_17,Canada,Français,Indiepics,2005,114.0,9.4,,658.0,51.0,51868.0,0.0,25.9
+Film 0767,Horreur,Réalisateur_17,Allemagne,Français,Indiepics,2023,162.0,51.9,,2310.0,60.0,278124.0,1.0,167.9
+Film 0768,Science-Fiction,Réalisateur_30,USA,Anglais,Atlas Pictures,2011,127.0,4.5,3.6,715.0,67.0,176294.0,0.0,70.0
+Film 0769,Comédie,Réalisateur_20,Inde,Anglais,Nordlight,2021,131.0,9.7,,1748.0,73.0,59052.0,0.0,39.2
+Film 0770,Science-Fiction,Réalisateur_07,Canada,Allemand,Atlas Pictures,2024,127.0,111.8,44.9,5000.0,61.0,222418.0,0.0,432.0
+Film 0771,Animation,Réalisateur_09,USA,Japonais,Nordlight,1992,139.0,18.9,6.4,2589.0,78.0,300973.0,5.0,238.3
+Film 0772,Romance,Réalisateur_23,Royaume-Uni,Anglais,Lumière,2002,109.0,56.8,12.4,3126.0,62.0,43962.0,0.0,109.5
+Film 0773,Action,Réalisateur_14,USA,Coréen,Atlas Pictures,2015,75.0,31.1,18.3,1370.0,74.0,67743.0,0.0,198.9
+Film 0774,Animation,Réalisateur_27,Japon,Français,Majorstudio,2018,109.0,22.1,15.2,1583.0,55.0,7175.0,0.0,117.0
+Film 0775,Thriller,Réalisateur_37,USA,Anglais,Lumière,1995,127.0,96.0,62.7,3423.0,35.0,22668.0,0.0,316.7
+Film 0776,Romance,Réalisateur_15,Corée du Sud,Japonais,Lumière,2001,95.0,19.4,,914.0,66.0,,0.0,64.5
+Film 0777,Science-Fiction,Réalisateur_23,France,Anglais,Majorstudio,2009,109.0,4.1,2.4,416.0,,132722.0,0.0,55.1
+Film 0778,Action,Réalisateur_34,Royaume-Uni,Anglais,Nordlight,2017,100.0,11.0,2.9,1205.0,,38413.0,0.0,81.0
+Film 0779,Drame,Réalisateur_09,USA,Hindi,Lumière,1993,139.0,42.6,13.1,2393.0,,62904.0,0.0,33.8
+Film 0780,Thriller,Réalisateur_21,Japon,Anglais,Lumière,2011,125.0,36.4,31.0,1764.0,57.0,24276.0,,167.3
+Film 0781,Romance,Réalisateur_13,France,Anglais,Nordlight,2000,124.0,5.1,3.7,970.0,50.0,,0.0,0.2
+Film 0782,Animation,Réalisateur_26,Japon,Anglais,Sakura Films,1997,123.0,11.9,10.1,1136.0,70.0,197438.0,0.0,96.4
+Film 0783,Action,Réalisateur_30,USA,Coréen,Majorstudio,2008,111.0,13.7,11.5,1950.0,68.0,188783.0,0.0,162.1
+Film 0784,Action,Réalisateur_06,USA,Japonais,Sakura Films,2004,116.0,17.0,11.1,1217.0,54.0,104199.0,0.0,126.7
+Film 0785,Science-Fiction,Réalisateur_08,France,Hindi,Sakura Films,2012,91.0,6.2,5.3,931.0,79.0,20037.0,4.0,63.1
+Film 0786,Horreur,Réalisateur_01,Canada,Anglais,Nordlight,2001,73.0,13.1,6.4,961.0,49.0,46444.0,2.0,31.9
+Film 0787,Action,Réalisateur_01,USA,Coréen,Indiepics,2018,115.0,11.8,2.4,1313.0,53.0,,1.0,59.6
+Film 0788,Animation,Réalisateur_03,Japon,Français,Atlas Pictures,1992,,53.1,12.9,2122.0,87.0,83354.0,2.0,281.3
+Film 0789,Horreur,Réalisateur_29,USA,Anglais,Nordlight,2020,134.0,55.1,15.2,2200.0,75.0,135012.0,2.0,86.7
+Film 0790,Action,Réalisateur_37,Corée du Sud,Anglais,Indiepics,1991,140.0,21.2,,2085.0,57.0,584381.0,1.0,115.6
+Film 0791,Action,Réalisateur_17,USA,Coréen,Nordlight,2015,140.0,16.6,7.4,1236.0,,303439.0,,103.2
+Film 0792,Science-Fiction,Réalisateur_36,France,Anglais,Nordlight,2002,,28.2,19.5,1496.0,64.0,34407.0,1.0,159.6
+Film 0793,Animation,Réalisateur_30,France,Français,Indiepics,2003,106.0,10.8,8.1,1788.0,21.0,158196.0,0.0,126.0
+Film 0794,Thriller,Réalisateur_33,USA,Français,Sakura Films,1990,121.0,7.8,4.8,559.0,48.0,208597.0,0.0,36.0
+Film 0795,Science-Fiction,Réalisateur_30,USA,Anglais,Lumière,2014,158.0,9.6,2.9,1241.0,,,0.0,57.8
+Film 0796,Drame,Réalisateur_08,France,Allemand,Atlas Pictures,1995,139.0,13.0,9.4,1465.0,57.0,292523.0,0.0,7.1
+Film 0797,Romance,Réalisateur_21,Royaume-Uni,Coréen,Indiepics,2013,132.0,7.7,3.5,,66.0,94463.0,0.0,41.1
+Film 0798,Science-Fiction,Réalisateur_22,Canada,Anglais,Nordlight,2015,105.0,28.8,6.0,2147.0,79.0,23452.0,2.0,154.9
+Film 0799,Drame,Réalisateur_26,France,Japonais,Sakura Films,2019,96.0,50.9,20.2,1864.0,57.0,182390.0,1.0,84.4
+Film 0800,Science-Fiction,Réalisateur_32,Allemagne,Anglais,Atlas Pictures,2014,,5.0,2.2,962.0,46.0,122950.0,0.0,73.1
